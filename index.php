@@ -61,8 +61,8 @@
                     </div>
                 </div>
             </div>
+            <div class="spacer-80"></div>
         </div>
-        <div class="spacer-80"></div>
     </section>
     <section id="recognitions" class="bg-beige">
         <div class="container">
@@ -218,8 +218,8 @@
                     <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
-        <div class="spacer-60"></div>
     </section>
     <section id="professionals">
         <div class="spacer-60"></div>
@@ -227,9 +227,9 @@
             <div class="row row align-items-center">
                 <div class="col-12">
                     <div class="section-top">
-                        <a href="#">
-                            <p>profissionais</p>
-                        </a>
+                        <div class="section-top-green text-green">
+                            <span>PROFISSIONAIS</span>
+                        </div>
                     </div>
                 </div>
                 <div class="col-6 text-green">
@@ -276,49 +276,61 @@
                 </div>
             </div>
             <div class="spacer-30"></div>
-            <div class="row">
+            <div class="row wrapper-cards-publications">
                 <div class="col-4">
-                    <div class="pub-card-img">
-                        <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
-                    </div>
-                    <div class="pub-card">
-                        <div class="pub-card-body title-green">
-                            <div class="pub-card-meta">
-                                <span>CATEGORIA</span>
-                                <span>12 DE DEZEMBRO DE 2025</span>
+                    <div class="wrapper-card-publication">
+                        <div class="publication-card-img">
+                            <span class="publication-badge">CATEGORIA</span>
+                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                        </div>
+                        <div class="publication-card-content">
+                            <div class="publication-card-body title-green">
+                                <div class="publication-card-meta text-green">
+                                    <div class="spacer-40"></div>
+                                    <span>12 DE DEZEMBRO DE 2025</span>
+                                </div>
+                                <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
+                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <div class="spacer-10"></div>
                             </div>
-                            <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                            <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-4">
-                    <div class="pub-card-img">
-                        <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
-                    </div>
-                    <div class="pub-card">
-                        <div class="pub-card-body title-green">
-                            <div class="pub-card-meta">
-                                <span>CATEGORIA</span>
-                                <span>12 DE DEZEMBRO DE 2025</span>
+                    <div class="wrapper-card-publication">
+                        <div class="publication-card-img">
+                            <span class="publication-badge">CATEGORIA</span>
+                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                        </div>
+                        <div class="publication-card-content">
+                            <div class="publication-card-body title-green">
+                                <div class="publication-card-meta text-green">
+                                    <div class="spacer-40"></div>
+                                    <span>12 DE DEZEMBRO DE 2025</span>
+                                </div>
+                                <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
+                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <div class="spacer-10"></div>
                             </div>
-                            <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                            <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-4">
-                    <div class="pub-card-img">
-                        <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
-                    </div>
-                    <div class="pub-card">
-                        <div class="pub-card-body title-green">
-                            <div class="pub-card-meta">
-                                <span>CATEGORIA</span>
-                                <span>12 DE DEZEMBRO DE 2025</span>
+                    <div class="wrapper-card-publication">
+                        <div class="publication-card-img">
+                            <span class="publication-badge">CATEGORIA</span>
+                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                        </div>
+                        <div class="publication-card-content">
+                            <div class="publication-card-body title-green">
+                                <div class="publication-card-meta text-green">
+                                    <div class="spacer-40"></div>
+                                    <span>12 DE DEZEMBRO DE 2025</span>
+                                </div>
+                                <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
+                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <div class="spacer-10"></div>
                             </div>
-                            <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                            <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -392,35 +404,33 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top">
-                        <a href="#">
-                            <p>Links Úteis</p>
-                        </a>
+                    <div class="section-top-green text-green">
+                        <span>LINKS ÚTEIS</span>
                     </div>
                 </div>
             </div>
-            <div class="spacer-30"></div>
+            <div class="spacer-60"></div>
             <div class="row">
                 <div class="col-4">
-                    <a href="#" class="link-card">
+                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-mail.svg" alt="">
                         <span>RECEBA NOSSO MAILING</span>
                     </a>
                 </div>
                 <div class="col-4">
-                    <a href="#" class="link-card">
+                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-tel.svg" alt="">
                         <span>ENTRE EM CONTATO CONOSCO</span>
                     </a>
                 </div>
                 <div class="col-4">
-                    <a href="#" class="link-card">
+                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-team.svg" alt="">
                         <span>VENHA FAZER PARTE DO NOSSO TIME</span>
                     </a>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
-        <div class="spacer-60"></div>
     </section>
 <?php require_once 'footer.php'; ?>

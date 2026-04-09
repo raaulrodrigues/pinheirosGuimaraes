@@ -1,3 +1,70 @@
+$(document).ready(function(){
+
+    $('.awards-slider-carousel').slick({
+        slidesToShow: 8,
+        slidesToScroll: 4,
+        arrows: true,
+        dots: false,
+        infinite: true,
+        speed: 900,
+        prevArrow: $('.awards-prev .slick-prev'),
+        nextArrow: $('.awards-next .slick-next'),
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 4
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 3
+                }
+            },
+            {
+                breakpoint: 540,
+                settings: {
+                    slidesToShow: 2
+                }
+            }
+        ]
+    });
+    $('.recognitions-slider-carousel').slick({
+        slidesToShow: 8,
+        slidesToScroll: 4,
+        arrows: true,
+        dots: false,
+        infinite: true,
+        speed: 900,
+        prevArrow: $('.recognitions-prev .slick-prev'),
+        nextArrow: $('.recognitions-next .slick-next'),
+        responsive: [
+            { 
+                breakpoint: 1024, 
+                settings: 
+                { slidesToShow: 4 
+
+                } 
+            },
+            { 
+                breakpoint: 768,  
+                settings: 
+                { slidesToShow: 3 
+
+                } 
+            },
+            { 
+                breakpoint: 540,  
+                settings: 
+                { slidesToShow: 2 
+
+                } 
+            }
+        ]
+    });
+});
+
 $(window).on('load', function(){
 	dynamicSpacer();
     fullFirstScreen();
