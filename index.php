@@ -221,6 +221,78 @@
             <div class="spacer-60"></div>
         </div>
     </section>
+    <section id="areas-grid" class="bg-beige">
+        <div class="spacer-30"></div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="section-top">
+                    <div class="section-top-green text-green">
+                        <span>ÁREAS DE ATUAÇÃO</span>
+                    </div>
+                </div>
+                <div class="spacer-30"></div>
+                <div class="col-12">
+                    <div class="areas-grid-title text-green">
+                        <h2>Lorem ipsum dolor sit amet consectetur adipiscing</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="spacer-30"></div>
+        </div>
+        <div class="container-fluid p-0">
+            <div class="row g-0">
+                <div class="col-6 col-md-3">
+                    <a href="#" class="area-card">
+                        <div class="area-card-inner" style="background-image: url('img/background-ambiental.jpg');">
+                            <div class="area-card-arrow">
+                                <i class="bi bi-arrow-up-right"></i>
+                            </div>
+                            <div class="area-card-title title-white">
+                                <h3>Ambiental</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a href="#" class="area-card">
+                        <div class="area-card-inner" style="background-image: url('img/background-bancario.jpg');">
+                            <div class="area-card-arrow">
+                                <i class="bi bi-arrow-up-right"></i>
+                            </div>
+                            <div class="area-card-title title-white">
+                                <h3>Bancário, Mercado Financeiro e de Capitais</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a href="#" class="area-card">
+                        <div class="area-card-inner" style="background-image: url('img/background-contencioso.jpg');">
+                            <div class="area-card-arrow">
+                                <i class="bi bi-arrow-up-right">
+
+                                </i></div>
+                            <div class="area-card-title title-white">
+                                <h3>Desenvolvimento e Financiamento de Projetos</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a href="#" class="area-card">
+                        <div class="area-card-inner" style="background-image: url('img/background-credito.jpg');">
+                            <div class="area-card-arrow">
+                                <i class="bi bi-arrow-up-right"></i>
+                            </div>
+                            <div class="area-card-title title-white">
+                                <h3>Ética, Compliance e Investigações</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="professionals">
         <div class="spacer-60"></div>
         <div class="container">
