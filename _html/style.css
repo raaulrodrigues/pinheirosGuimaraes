@@ -385,7 +385,7 @@ em {
     font-family: "Merriweather";
 }
 .font-family-merriweather-sans {
-    font-family: "Merriweather-sans";
+    font-family: "Merriweather Sans";
 }
 
 .parallax {background-size: cover;background-position: center;background-attachment: fixed;height: 40vh; min-height: 550px;}
@@ -404,6 +404,9 @@ em {
 .section-top.full-width::after {
     width: 100%;
 }
+.section-top.width-85::after {
+    width: 85%;
+}
 .section-top.width-75::after {
     width: 75%;
 }
@@ -415,6 +418,12 @@ em {
 }
 .section-top.width-45::after {
     width: 45%;
+}
+.section-top.width-35::after {
+    width: 35%;
+}
+.section-top.width-30::after {
+    width: 30%;
 }
 .section-top.width-25::after {
     width: 25%;
@@ -439,7 +448,11 @@ em {
     bottom: 0;
     left: 0;
 }
-
+.section-top.without-line {
+    font-size: 20px;
+    font-weight: 300 !important;
+    padding-bottom: 0 !important;
+}
 /* Default */
 
 /* Btns */
@@ -457,7 +470,6 @@ em {
     border: none;
     display: inline-block;
     transition: 0.6s;
-    letter-spacing: 0.8px;
 }
 
 .stroke-btn {
@@ -466,7 +478,7 @@ em {
     display: flex;
     justify-content: center;
     padding: 12px 0;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     font-size: 12px;
     font-weight: 300;
     text-transform: uppercase;
@@ -685,6 +697,7 @@ em {
 }
 .wrapper-cards-publications .wrapper-card-publication .publication-card-content .publication-card-body .publication-card-meta span {
     font-size: 14px;
+    font-family: 'Merriweather Sans';
     text-transform: uppercase;
 }
 .wrapper-cards-publications .wrapper-card-publication .publication-card-content .publication-card-body h5 {
@@ -922,7 +935,6 @@ em {
 #page-hero .wrapper-featured-post>div>div>div>div .section-top p {
     font-size: 11px;
     font-weight: 300;
-    letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #fff;
     margin: 0;
@@ -973,9 +985,6 @@ em {
     width: auto;
     margin: 0 40px;
 }
-#about>div>div>div .section-top {}
-#about>div>div>div .section-top a {}
-#about>div>div>div .section-top a p {}
 #about>div>div>div h3 {
     font-size: 30px;
     font-weight: 700;
@@ -1012,17 +1021,6 @@ em {
 #recognitions>div>div>div .recognitions-left-content {
     width: 100%;
     padding: 60px 40px;
-}
-#recognitions>div>div>div .recognitions-left-content .section-top {
-    margin-bottom: 30px;
-}
-#recognitions>div>div>div .recognitions-left-content .section-top a {
-    padding: 0;
-}
-#recognitions>div>div>div .recognitions-left-content .section-top a p {
-    color: #fff;
-    border-bottom: 1px solid #fff;
-    width: 480px;
 }
 #recognitions>div>div>div .recognitions-left-content .recognitions-tagline {
     margin-top: 20px;
@@ -1144,21 +1142,6 @@ em {
 #professionals>div {}
 #professionals>div>div {}
 #professionals>div>div>div {}
-#professionals>div>div>div .section-top {
-    margin-bottom: 30px;
-}
-#professionals>div>div>div .section-top a {
-    padding: 0;
-}
-#professionals>div>div>div .section-top a p {
-    padding-bottom: 12px;
-    border-bottom: 1px solid #004C42; 
-    width: 400px;
-}
-#professionals>div>div>div p {
-    font-size: 25px;
-    font-weight: 700;
-}
 #professionals>div>div>div .busca-professionals {
     display: flex;
     flex-direction: column;
@@ -1249,17 +1232,6 @@ em {
 #useful-links>div {}
 #useful-links>div>div {}
 #useful-links>div>div>div {}
-#useful-links>div>div>div .section-top {
-    margin-bottom: 30px;
-}
-#useful-links>div>div>div .section-top a {
-    padding: 0;
-}
-#useful-links>div>div>div .section-top a p {
-    padding-bottom: 12px;
-    border-bottom: 1px solid #004C42; 
-    width: 400px;
-}
 #useful-links>div>div>div .link-card {
     display: flex;
     flex-direction: column;
@@ -1307,14 +1279,9 @@ em {
 }
 #default-hero>div>div {}
 #default-hero>div>div>div {}
-#default-hero>div>div>div .section-top {}
-#default-hero>div>div>div .section-top a {}
-#default-hero>div>div>div .section-top a p {
-    color: #fff;
-}
 #default-hero>div>div>div .default-tagline {}
 #default-hero>div>div>div .default-tagline h1 {
-    font-size: 48px;
+    font-size: 40px;
     font-weight: 700;
     display: flex;
     align-items: center;
@@ -1341,30 +1308,22 @@ em {
 #about-us>div>div>div .about-us-content {}
 #about-us>div>div>div .about-us-content p {
     font-size: 15px;
+    font-family: 'Merriweather Sans';
 }
 
 #manifest {}
 #manifest>div {}
 #manifest>div>div {}
 #manifest>div>div>div {}
-#manifest>div>div>div .section-top {
-    border-bottom: 1px solid #fff;
-    width: 550px;
-    padding: 25px 0;
-}
-#manifest>div>div>div .section-top a {
-    padding: 0;
-}
-#manifest>div>div>div .section-top a p {
-}
 #manifest>div>div>div .manifest-subtitle {}
 #manifest>div>div>div .manifest-subtitle h2 {
     font-size: 25px;
     font-weight: 700;
 }
 #manifest>div>div>div .manifest-subtitle p {
-    font-size: 16px;
-    font-family: "Merriweather-sans";
+    font-size: 14px;
+    font-family: "Merriweather Sans";
+    font-weight: 300;
 }
 #manifest>div>div>div .manifest-col-title {}
 #manifest>div>div>div .manifest-col-title h2 {
@@ -1375,8 +1334,9 @@ em {
 }
 #manifest>div>div>div .manifest-col-content {}
 #manifest>div>div>div .manifest-col-content p {
-    font-size: 16px;
-    line-height: 30px;
+    font-size: 14px;
+    font-family: 'Merriweather Sans';
+    font-weight: 300;
 }
 #manifest>div>div>div a {
     font-size: 11px;
@@ -1397,13 +1357,6 @@ em {
     margin-left: 70px;
 }
 #timeline>div>div>div {}
-#timeline>div>div>div .section-top {}
-#timeline>div>div>div .section-top a {}
-#timeline>div>div>div .section-top a p {
-    padding-bottom: 25px;
-    border-bottom: 1px solid #004C42;
-    width: 400px;
-}
 #timeline>div>div>div .timeline-subtitle {}
 #timeline>div>div>div .timeline-subtitle h2 {
     font-size: 25px;
@@ -1413,20 +1366,13 @@ em {
 #timeline>div>div>div .main-btn {}
 #timeline>div>div>div .main-btn i {
     margin-left: 8px;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 #diversity {}
 #diversity>div {}
 #diversity>div>div {}
 #diversity>div>div>div {}
-#diversity>div>div>div .section-top {}
-#diversity>div>div>div .section-top a {}
-#diversity>div>div>div .section-top a p {
-    padding-bottom: 25px;
-    border-bottom: 1px solid #004C42;
-    width: 450px;
-}
 #diversity>div>div>div .diversity-subtitle {}
 #diversity>div>div>div .diversity-subtitle h2 {
     font-size: 25px;
@@ -1434,16 +1380,19 @@ em {
 }
 #diversity>div>div>div .diversity-content {}
 #diversity>div>div>div .diversity-content p {
-    font-size: 16px;
+    font-family: 'Merriweather Sans';
+    font-size: 15px;
 }
 #diversity>div>div>div .diversity-stat {}
 #diversity>div>div>div .diversity-stat h3 {
     font-size: 80px;
     font-weight: 700;
     margin-bottom: 10px;
+    margin-left: 25px;
 }
 #diversity>div>div>div .diversity-stat p {
-    font-size: 22px;
+    font-size: 20px;
+    font-family: 'Merriweather Sans';
 }
 
 /* About us */
@@ -1462,6 +1411,7 @@ em {
 #about-us-timeline>div>div>div .about-us-timeline-content {}
 #about-us-timeline>div>div>div .about-us-timeline-content p {
     font-size: 16px;
+    font-family: 'Merriweather Sans';
 }
 
 
@@ -1507,15 +1457,11 @@ em {
     margin-left: 40px;
 }
 #our-history .history-content .history-text .history-text-inner h3 {
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 700;
-    color: #004C42;
-    line-height: 1.3;
 }
 #our-history .history-content .history-text .history-text-inner p {
-    font-size: 14px;
-    line-height: 1.7;
-    color: #004C42;
+    font-size: 16px;
 }
 #our-history .history-content .history-text .history-nav {
     display: flex;
@@ -1678,72 +1624,14 @@ em {
     transform: scale(1.05);
 }
 
-#recognition-detail {
-    padding: 0;
+#recognitions-info {}
+#recognitions-info>div {}
+#recognitions-info>div>div {}
+#recognitions-info>div>div>div {}
+#recognitions-info>div>div>div .recognitions-info-content {}
+#recognitions-info>div>div>div .recognitions-info-content p {
+    font-family: 'Merriweather Sans';
 }
-#recognition-detail .recognition-detail-wrapper {
-    display: flex;
-    align-items: stretch;
-    position: relative;
-}
-#recognition-detail .recognition-detail-image {
-    position: relative;
-    z-index: 2;
-    width: 280px;
-    min-width: 280px;
-    margin: -40px 0; /* vaza para cima e baixo */
-    background: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-}
-#recognition-detail .recognition-detail-image img {
-    max-width: 160px;
-    max-height: 160px;
-    object-fit: contain;
-}
-#recognition-detail .recognition-detail-bar {
-    background: #004C42;
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 30px 40px;
-}
-#recognition-detail .recognition-detail-label {
-    display: block;
-    color: rgba(255,255,255,0.7);
-    font-size: 12px;
-    letter-spacing: 2px;
-    margin-bottom: 8px;
-}
-#recognition-detail .recognition-detail-title {
-    color: #fff;
-    font-size: 28px;
-    margin: 0;
-}
-#recognition-detail .recognition-detail-arrows {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-#recognition-detail .recognition-detail-text {
-    padding: 40px 0 60px 0;
-    max-width: 750px;
-    margin-left: 280px; /* alinha com o fim da imagem */
-    padding-left: 40px;
-}
-#recognition-detail .recognition-detail-text p {
-    margin-bottom: 12px;
-    font-size: 15px;
-    line-height: 1.6;
-}
-#recognition-detail .recognition-detail-text a {
-    color: #004C42;
-    font-weight: 600;
-}
-
 /* Reconhecimento Listagem */
 
 /* Carreira */
@@ -1760,6 +1648,7 @@ em {
 #work-with-us>div>div>div .work-with-us-content {
     font-size: 16px;
 }
+#work-with-us>div>div>div .work-with-us-content p {font-family: 'Merriweather Sans';}
 #work-with-us>div .work-with-us-form {}
 #work-with-us>div .work-with-us-form>div {}
 #work-with-us>div .work-with-us-form>div>div {}
@@ -1773,11 +1662,12 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     background: transparent;
     color: #004C42;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-field input::placeholder {
+    font-family: 'Merriweather Sans';
     color: #004C42;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-field-select {}
@@ -1787,7 +1677,7 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     background: transparent;
     color: #004C42;
     cursor: pointer;
@@ -1800,7 +1690,7 @@ em {
     cursor: pointer;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     color: #004C42;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-file-label i {
@@ -1823,13 +1713,13 @@ em {
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-check  p{
     font-size: 16px;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     cursor: pointer;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-lgpd {}
 #work-with-us>div .work-with-us-form>div>div .work-with-us-lgpd p {
-    font-size: 16px;
-    font-family: 'Merriweather-sans';
+    font-size: 14px;
+    font-family: 'Merriweather Sans';
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-lgpd p a{
     color: #02231F;
@@ -1842,7 +1732,7 @@ em {
     padding: 12px 20px;
     display: inline-flex;
     align-items: center;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
 }
 #work-with-us>div .work-with-us-form>div>div button i {
     margin-left: 8px;
@@ -1853,7 +1743,8 @@ em {
 #our-team {}
 #our-team>div {}
 #our-team>div>div {}
-#our-team>div>div>div {}
+#our-team>div>div>div {
+}
 #our-team>div>div>div .our-team-title {}
 #our-team>div>div>div .our-team-title h1 {
     font-size: 25px;
@@ -1861,7 +1752,7 @@ em {
 }
 #our-team>div>div>div .our-team-filter-search {
     position: relative;
-    border-bottom: 2px solid #004C42;
+    border-bottom: 1px solid #004C42;
     padding-bottom: 8px;
 }
 #our-team>div>div>div .our-team-filter-search input {
@@ -1930,16 +1821,18 @@ em {
     margin-left: 10px;
 }
 #our-team>div>div>div .our-team-alphabet {
-    display: flex;
-    flex-wrap: wrap;
     margin: 40px 0;
 }
 #our-team>div>div>div .our-team-alphabet span {
     font-size: 18px;
+    font-family: 'Merriweather Sans';
     color: #004C42;
     cursor: pointer;
     transition: 0.2s;
-    margin-right: 37px;
+    margin-right: 38px;
+}
+#our-team>div>div>div .our-team-alphabet span:last-child {
+    margin-right: 0;
 }
 #our-team>div>div>div .our-team-alphabet span:hover,
 #our-team>div>div>div .our-team-alphabet span.active {
@@ -2000,7 +1893,7 @@ em {
     color: #004C42;
     display: block;
     margin: 15px 0;
-    font-family: "Merriweather-sans";
+    font-family: "Merriweather Sans";
 }
 #our-team>div>div>div .our-team-card-info .our-team-card-contacts {
     display: flex;
@@ -2049,6 +1942,7 @@ em {
     color: #fff;
     text-decoration: none;
     font-size: 11px;
+    font-family: 'Merriweather Sans';
     letter-spacing: 2px;
     margin-bottom: 20px;
     transition: 0.2s;
@@ -2072,6 +1966,7 @@ em {
 }
 #member-hero>div>div>div .member-hero-bar .member-hero-infos span {
     font-size: 18px;
+    font-family: 'Merriweather Sans';
     font-weight: 300;
     display: block;
     margin-bottom: 24px;
@@ -2107,11 +2002,12 @@ em {
     font-weight: 700;
     margin-bottom: 16px;
 }
-#member-details>div>div>div .member-details-block p {}
+#member-details>div>div>div .member-details-block p {font-family: 'Merriweather Sans';font-size: 16px;}
 #member-details>div>div>div .member-details-areas-title {}
 #member-details>div>div>div .member-details-areas-title h1 {
     display: block;
     font-size: 18px;
+    font-family: 'Merriweather Sans';
     font-weight: 300;
     margin-bottom: 25px;
 }
@@ -2124,6 +2020,7 @@ em {
     color: #fff;
     padding: 8px 16px;
     font-size: 16px;
+    font-weight: 300;
     text-decoration: none;
     transition: 0.3s;
     margin: 20px 30px 0 0;
@@ -2147,8 +2044,8 @@ em {
 }
 #practice-content>div>div>div .practice-content-main .practice-content-text {}
 #practice-content>div>div>div .practice-content-main .practice-content-text p {
-    font-family: 'Merriweather-sans';
-    margin-bottom: 16px;
+    font-family: 'Merriweather Sans';
+    margin-bottom: 14px;
 }
 #practice-content>div>div>div .practice-related-box {
     padding: 30px;
@@ -2229,13 +2126,12 @@ em {
     margin-bottom: 4px;
 }
 #practice-content>div>div>div .practice-related-box .practice-related-list .practice-related-card .practice-related-card-info h4 a {
-    color: #004C42;
     text-decoration: none;
+    color: #004C42;
 }
 #practice-content>div>div>div .practice-related-box .practice-related-list .practice-related-card .practice-related-card-info span {
     font-size: 10px;
-    letter-spacing: 2px;
-    color: #555;
+    font-family: 'Merriweather Sans';
     display: block;
     margin-bottom: 8px;
 }
@@ -2267,16 +2163,18 @@ em {
 #publications-filter>div>div {}
 #publications-filter>div>div>div {}
 #publications-filter>div>div>div .publications-filter-categories {
-    display: flex;
-    flex-wrap: wrap;
 }
 #publications-filter>div>div>div .publications-filter-categories a {
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 300;
     color: #004C42;
     text-decoration: none;
     transition: 0.2s;
-    margin-right: 24px;
+    margin-right: 20px;
+    font-family: 'Merriweather Sans';
+}
+#publications-filter>div>div>div .publications-filter-categories a:last-child{
+    margin-right: 0;
 }
 #publications-filter>div>div>div .publications-filter-categories a.active {
     color: #02231F;
@@ -2293,6 +2191,7 @@ em {
     background: transparent;
     width: 100%;
     font-size: 14px;
+    font-family: 'Merriweather Sans';
     font-weight: 300;
     padding-right: 24px
 }
@@ -2316,6 +2215,7 @@ em {
     border: none;
     background: transparent;
     font-size: 14px;
+    font-family: 'Merriweather Sans';
     font-weight: 300;
     color: #004C42;
     cursor: pointer;
@@ -2355,7 +2255,9 @@ em {
     border-bottom: 1px solid #004C42;
     padding: 8px 16px;
 }
-#publications-results>div>div>div .publications-results-order span {}
+#publications-results>div>div>div .publications-results-order span {
+    font-family: 'Merriweather Sans';
+}
 #publications-results>div>div>div .publications-results-order i {
     margin-left: 10px;
 }
@@ -2488,6 +2390,7 @@ em {
 }
 #publications-newsletter>div>div>div .newsletter-field input {
     font-size: 14px;
+    font-family: 'Merriweather Sans';
     font-weight: 300;
     border: none;
     background: transparent;
@@ -2497,7 +2400,9 @@ em {
 }
 #publications-newsletter>div>div>div .newsletter-field input::placeholder {
     margin-left: 50px;
+    font-size: 14px;
     color: #004C42;
+    font-family: 'Merriweather Sans';
 }
 #publications-newsletter>div>div>div .newsletter-field-select {}
 #publications-newsletter>div>div>div .newsletter-field-select select {
@@ -2505,6 +2410,7 @@ em {
     background: transparent;
     width: 100%;
     font-size: 14px;
+    font-family: 'Merriweather Sans';
     font-weight: 300;
     color: #004C42;
     cursor: pointer;
@@ -2529,7 +2435,7 @@ em {
     accent-color: #004C42;
 }
 #publications-newsletter>div>div>div .newsletter-checkbox label {
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     color: #02231F;
     cursor: pointer;
 }
@@ -2560,7 +2466,7 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     background: transparent;
     color: #004C42;
 }
@@ -2570,7 +2476,7 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
     background: transparent;
     height: 80px;
     color: #004C42;
@@ -2596,7 +2502,7 @@ em {
 }
 #contact>div>div>div .contact-form .contact-check label {
     font-size: 16px;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
 
     cursor: pointer;
 }
@@ -2734,6 +2640,7 @@ footer .bottom-footer>div>div>div a:hover img {
     color: #fff;
     text-decoration: none;
     font-size: 11px;
+    font-family: 'Merriweather Sans';
     margin-bottom: 20px;
     transition: 0.2s;
     border: none;
@@ -2753,13 +2660,13 @@ footer .bottom-footer>div>div>div a:hover img {
     font-size: 14px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
 }
 #publication-hero>div>div>div .green-bar-infos span {
     font-size: 20px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Merriweather-sans';
+    font-family: 'Merriweather Sans';
 }
 #publication-hero>div>div>div .green-bar-infos h1 {
     font-size: 35px;

@@ -5,8 +5,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <div class="section-top">
-                            <a href="#"><p>PRêMIOS E RECONHECIMENTOS</p></a>
+                        <div class="section-top without-line text-white">
+                            <p>PRêMIOS E RECONHECIMENTOS</p>
                         </div>
                         <div class="default-tagline title-white">
                             <h1>Excelência  e Reconhecimento</h1>
@@ -242,8 +242,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top-green width-25">
                         <span>LINKS ÚTEIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>

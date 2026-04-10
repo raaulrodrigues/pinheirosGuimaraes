@@ -5,8 +5,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <div class="section-top">
-                            <a href="#"><p>O Escritório</p></a>
+                        <div class="section-top without-line text-white">
+                            <p>O Escritório</p>
                         </div>
                         <div class="default-tagline title-white">
                             <h1>Tradição <img src="img/icon-pg-white.svg" alt=""> Inovação</h1>
@@ -39,10 +39,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top">
-                        <a href="#">
-                            <p class="text-white">manifesto</p>
-                        </a>
+                    <div class="section-top section-top section-top-white width-45">
+                        <span>manifesto</span>
+                        <div class="spacer-10"></div>
                     </div>
                     <div class="spacer-20"></div>
                     <div class="manifest-subtitle title-white text-white">
@@ -86,15 +85,14 @@
             <div class="spacer-60"></div>
         </div>
     </section>
-    <section id="timeline">
+    <section id="timeline" class="bg-beige">
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-12 col-lg-6">
-                    <div class="section-top">
-                        <a href="#">
-                            <p>Linha do Tempo</p>
-                        </a>
+                <div class="col-12 col-lg-5">
+                    <div class="section-top section-top-green width-85">
+                        <span>Linha do Tempo</span>
+                        <div class="spacer-10"></div>
                     </div>
                     <div class="spacer-20"></div>
                     <div class="timeline-subtitle title-green">
@@ -108,15 +106,14 @@
             <div class="spacer-60"></div>
         </div>
     </section>
-    <section id="diversity" class="bg-beige">
+    <section id="diversity" class="bg-dark-beige">
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-6">
-                    <div class="section-top">
-                        <a href="#">
-                            <p>Diversidade</p>
-                        </a>
+                <div class="col-12 col-lg-5">
+                    <div class="section-top section-top-green width-85">
+                        <span>Diversidade</span>
+                        <div class="spacer-10"></div>
                     </div>
                     <div class="spacer-20"></div>
                     <div class="diversity-subtitle title-green">
@@ -224,8 +221,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top-green width-25">
                         <span>LINKS ÚTEIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>
