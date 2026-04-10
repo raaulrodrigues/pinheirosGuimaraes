@@ -30,19 +30,19 @@
         </div>
         <div class="main-header bg-beige">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-auto">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-auto">
                         <a href=""><img src="img/logo-pinheiroGui.svg" alt=""></a>
                     </div>
-                    <div class="col">
-                        <nav class="main-nav">
+                    <div class="col-lg-6">
+                        <nav class="main-nav w-100 justify-content-between">
                             <a href="#">Escritório</a>
                             <a href="#">Áreas de Atuação</a>
                             <a href="#">Profissionais</a>
                             <a href="#">Publicações</a>
                         </nav>
                     </div>
-                    <div class="col-auto d-flex align-items-center gap-2">
+                    <div class="col-lg-auto d-flex align-items-center justify-content-end gap-2">
                         <button class="icon-btn"><i class="bi bi-search"></i></button>
                         <button class="lang-btn"><i class="bi bi-globe2"></i> PT <i class="bi bi-chevron-down"></i></button>
                         <button class="icon-btn menu-btn"><i class="bi bi-list"></i></button>

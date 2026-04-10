@@ -16,42 +16,45 @@
                                 <p>Seu parceiro para o sucesso.</p>
                             </div>
                         </div>
+                        <div class="spacer-150"></div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <section id="category" class="bg-light-green">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <div class="section-top">
-                        <a href="#">
-                            <p>categoria</p>
-                            <p>12 de dezembro de 2025</p>
-                        </a>
+        <div class="wrapper-featured-post">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="bg-light-green">
+                            <div class="section-top section-top-white full-width">
+                                <p>categoria</p>
+                                <p>12 de dezembro de 2025</p>
+                            </div>
+                            <div class="category-content text-white">
+                                <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
+                            </div>
+                            <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                        </div>
                     </div>
-                    <div class="category-content text-white">
-                        <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
-                    </div>
-                    <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">O ESCRITÓRIO <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
         </div>
     </section>
     <section id="about" class="bg-beige">
-        <div class="spacer-80"></div>
+        <div class="spacer-200"></div>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-5">
                     <div class="about-tagline text-green">
-                        <h2>Tradição <img src="img/icon-pg-green.svg" alt=""> Inovação</h2>
+                        <h2><span>Tradição</span> <img src="img/icon-pg-green.svg" alt=""> <span>Inovação</span></h2>
                     </div>
                 </div>
                 <div class="col-7">
-                    <div class="section-top">
-                        <a href="#"><p>O Escritório</p></a>
+                    <div class="section-top section-top-green width-65">
+                        <p>O Escritório</p>
+                        <div class="spacer-10"></div>
                     </div>
+                    <div class="spacer-10"></div>
                     <h3 class="text-green">Mais de 100 anos de história nos ensinaram que a excelência não é uma meta, mas um ponto de partida.</h3>
                     <div class="spacer-30"></div>
                     <div class="about-btns">
@@ -61,7 +64,7 @@
                     </div>
                 </div>
             </div>
-            <div class="spacer-80"></div>
+            <div class="spacer-100"></div>
         </div>
     </section>
     <section id="recognitions" class="bg-beige">
@@ -70,10 +73,8 @@
                 <div class="col">
                     <div class="recognitions-left bg-green">
                         <div class="recognitions-left-content">
-                            <div class="section-top">
-                                <a href="#">
-                                    <p>Reconhecimentos</p>
-                                </a>
+                            <div class="section-top section-top-white full-width">
+                                <p>Reconhecimentos</p>
                             </div>
                             <div class="recognitions-tagline text-white">
                                 <h2>Excelência <img src="img/icon-pg-white.svg" alt=""> Reconhecimento</h2>

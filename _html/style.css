@@ -391,39 +391,53 @@ em {
 .parallax {background-size: cover;background-position: center;background-attachment: fixed;height: 40vh; min-height: 550px;}
 .parallax-full-height {height: 100vh; min-height: 600px;}
 
-.section-top{
+.section-top {
     margin-bottom: 10px;
-}
-
-.section-top a {
-    display: flex;
-    align-items: center;
     text-decoration: none;
-}
-.section-top a p {
-    font-size: 16px !important;
+    position: relative;
+    font-size: 14px;
     text-transform: uppercase;
+    font-family: 'Merriweather Sans';
+    padding-bottom: 10px !important;
+    margin-bottom: 10px !important;
+}
+.section-top.full-width::after {
+    width: 100%;
+}
+.section-top.width-75::after {
+    width: 75%;
+}
+.section-top.width-65::after {
+    width: 65%;
+}
+.section-top.width-55::after {
+    width: 55%;
+}
+.section-top.width-45::after {
+    width: 45%;
+}
+.section-top.width-25::after {
+    width: 25%;
+}
+.section-top.section-top-green {
     color: #004C42;
-    font-family: 'Merriweather-sans'
 }
-
-.section-top-green {
+.section-top.section-top-green::after {
+    content: '';
     border-bottom: 1px solid #004C42;
-    width: 415px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
-.section-top-white {
+.section-top.section-top-white {
+    color: #fff;
+}
+.section-top.section-top-white::after {
+    content: '';
     border-bottom: 1px solid #fff;
-    width: 415px;
-}
-.section-top-green span {
-    display: block;
-    font-family: 'Merriweather-sans';
-    margin-bottom: 25px;
-}
-.section-top-white span {
-    display: block;
-    font-family: 'Merriweather-sans';
-    margin-bottom: 25px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
 /* Default */
@@ -443,6 +457,7 @@ em {
     border: none;
     display: inline-block;
     transition: 0.6s;
+    letter-spacing: 0.8px;
 }
 
 .stroke-btn {
@@ -737,16 +752,19 @@ em {
     z-index: 100;
     box-shadow: 0 2px 10px rgba(0,0,0,0.28);
 }
-#stickyHeader .top-header {}
+#stickyHeader .top-header {
+    padding: 5px 0;
+}
 #stickyHeader .top-header>div {}
 #stickyHeader .top-header>div>div {
     align-items: center;
 }
 #stickyHeader .top-header>div>div>div {
-    margin: 10px 0 10px 0;
 }
 #stickyHeader .top-header>div>div>div p {
     font-weight: 300;
+    font-family: 'Merriweather Sans';
+    font-size: 14px;
 }
 #stickyHeader .top-header>div>div>div p span{
     font-weight: 700;
@@ -756,24 +774,31 @@ em {
 }
 #stickyHeader .top-header>div>div>div a {
     padding: 10px 15px 10px 15px;
+    font-family: 'Merriweather Sans';
+    font-size: 11px;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-#stickyHeader .top-header>div>div>div a i {}
+#stickyHeader .top-header>div>div>div a i {
+    margin-left: 10px;
+}
 
 #stickyHeader .main-header {}
 #stickyHeader .main-header>div {}
 #stickyHeader .main-header>div>div {
     align-items: center;
-    padding: 16px 0;
+    padding: 5px 0;
 }
 #stickyHeader .main-header>div>div>div {}
 #stickyHeader .main-header>div>div>div img {
-    height: 48px;
-    width: auto;
+    width: 100%;
 }
 #stickyHeader .main-header>div>div>div .main-nav {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 #stickyHeader .main-header>div>div>div .main-nav a {
     font-size: 14px;
@@ -781,12 +806,12 @@ em {
     color: #02231F;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 0 18px;
     height: 72px;
     display: flex;
     align-items: center;
     border-bottom: 2px solid transparent;
     transition: color 0.2s, border-color 0.2s;
+    font-family: 'Merriweather Sans';
 }
 #stickyHeader .main-header>div>div>div .main-nav a:hover {
     color: #01655C;
@@ -823,7 +848,10 @@ em {
 
 /* Home */
 
-#page-hero {}
+#page-hero {
+    position: relative;
+    overflow: initial;
+}
 #page-hero .slide {
     background-size: cover;
     background-position: center;
@@ -867,51 +895,64 @@ em {
     line-height: 45px;
     margin: 0;
 }
-
-#category {}
-#category>div {}
-#category>div>div {}
-#category>div>div>div {}
-#category>div>div>div .section-top {
-    padding: 20px 0;
-    border-bottom: 1px solid rgba(255,255,255,0.3);
-    margin-bottom: 20px;
+#page-hero .wrapper-featured-post {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transform: translateY(20%);
 }
-#category>div>div>div .section-top a {
+#page-hero .wrapper-featured-post>div {
+}
+#page-hero .wrapper-featured-post>div>div {
+    justify-content: flex-end;
+}
+#page-hero .wrapper-featured-post>div>div>div {
+    justify-content: flex-end;
+}
+#page-hero .wrapper-featured-post>div>div>div>div {
+    padding: 20px;
+}
+#page-hero .wrapper-featured-post>div>div>div>div .section-top {
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-decoration: none;
+    position: relative;
 }
-#category>div>div>div .section-top a p {
+#page-hero .wrapper-featured-post>div>div>div>div .section-top p {
     font-size: 11px;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #fff;
     margin: 0;
-    opacity: 0.8;
+    opacity: 1;
+    font-family: 'Merriweather Sans';
 }
-#category>div>div>div .category-content {
+#page-hero .wrapper-featured-post>div>div>div>div .category-content {
     margin-bottom: 24px;
+    padding: 0 10px;
 }
-#category>div>div>div .category-content p {
-    font-size: 18px;
+#page-hero .wrapper-featured-post>div>div>div>div .category-content p {
+    font-size: 16px;
     font-weight: 700;
-    line-height: 28px;
+    line-height: 29px;
     color: #fff;
     margin: 0;
 }
-#category>div>div>div a {
+#page-hero .wrapper-featured-post>div>div>div>div>a {
     font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
     padding: 10px 18px;
     display: inline-flex;
     align-items: center;
     text-decoration: none;
+    margin-left: 10px;
+    border: 1px solid transparent;
 }
-#category>div>div>div a i {
+#page-hero .wrapper-featured-post>div>div>div>div>a:hover {
+    border: 1px solid #fff
+}
+#page-hero .wrapper-featured-post>div>div>div>div a i {
     margin-left: 8px;
     font-size: 12px;
 }
@@ -930,7 +971,7 @@ em {
 #about>div>div>div .about-tagline h2 img {
     height: 40px;
     width: auto;
-    margin: 20px;
+    margin: 0 40px;
 }
 #about>div>div>div .section-top {}
 #about>div>div>div .section-top a {}
