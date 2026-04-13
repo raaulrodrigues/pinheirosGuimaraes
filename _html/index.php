@@ -25,15 +25,27 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-                        <div class="bg-light-green">
-                            <div class="section-top section-top-white full-width">
-                                <p>categoria</p>
-                                <p>12 de dezembro de 2025</p>
+                        <div class="slider-post-home main-slick-dots gray-dots">
+                            <div class="bg-light-green">
+                                <div class="section-top section-top-white full-width">
+                                    <p>categoria</p>
+                                    <p>12 de dezembro de 2025</p>
+                                </div>
+                                <div class="category-content text-white">
+                                    <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
+                                </div>
+                                <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                             </div>
-                            <div class="category-content text-white">
-                                <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
+                            <div class="bg-light-green">
+                                <div class="section-top section-top-white full-width">
+                                    <p>categoria</p>
+                                    <p>12 de dezembro de 2025</p>
+                                </div>
+                                <div class="category-content text-white">
+                                    <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
+                                </div>
+                                <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                             </div>
-                            <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -90,8 +102,13 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="recognitions-right bg-white">
-                        <div class="recognitions-right-content">
+                    <div class="recognitions-right bg-white w-100">
+                        <div class="append-arrows main-slick-arrows green-arrows h-100"></div>
+                        <div class="recognitions-right-content slider-comments-home">
+                            <div class="recognitions-quote text-green">
+                                <blockquote>"One client applauds: 'I rate the firm as top-tier due to the quality and consistency of the work provided and the high level of its junior team. They offer in-depth advice on the structuring of transactions, in addition to maintaining an unrivalled level of attention to detail.'"</blockquote>
+                                <cite>(Chambers and Partners, Latin America)</cite>
+                            </div>
                             <div class="recognitions-quote text-green">
                                 <blockquote>"One client applauds: 'I rate the firm as top-tier due to the quality and consistency of the work provided and the high level of its junior team. They offer in-depth advice on the structuring of transactions, in addition to maintaining an unrivalled level of attention to detail.'"</blockquote>
                                 <cite>(Chambers and Partners, Latin America)</cite>

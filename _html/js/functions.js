@@ -1,5 +1,21 @@
 $(document).ready(function(){
-
+    $('.slider-post-home').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: true,
+        infinite: true,
+        autoPlay: true,
+    });
+    $('.slider-comments-home').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        infinite: true,
+        autoPlay: true,
+        appendArrows: $('.recognitions-right .append-arrows')
+    });
     $('.awards-slider-carousel').slick({
         slidesToShow: 8,
         slidesToScroll: 4,
