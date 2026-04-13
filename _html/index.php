@@ -56,15 +56,18 @@
         <div class="spacer-200"></div>
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-5">
+                <div class="col-12 col-lg-5 d-none d-lg-block">
                     <div class="about-tagline text-green">
                         <h2><span>Tradição</span> <img src="img/icon-pg-green.svg" alt=""> <span>Inovação</span></h2>
                     </div>
                 </div>
-                <div class="col-7">
+                <div class="col-12 col-lg-7">
                     <div class="section-top section-top-green width-65">
                         <p>O Escritório</p>
                         <div class="spacer-10"></div>
+                    </div>
+                    <div class="about-tagline text-green d-block d-lg-none mt-4 mb-4">
+                        <h2><span>Tradição</span> <img src="img/icon-pg-green.svg" alt=""> <span>Inovação</span></h2>
                     </div>
                     <div class="spacer-10"></div>
                     <h3 class="text-green">Mais de 100 anos de história nos ensinaram que a excelência não é uma meta, mas um ponto de partida.</h3>
@@ -76,14 +79,14 @@
                     </div>
                 </div>
             </div>
-            <div class="spacer-100"></div>
+            <div class="spacer-60"></div>
         </div>
     </section>
     <section id="recognitions" class="bg-beige">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="recognitions-left bg-green">
+                    <div class="recognitions-left bg-light-green">
                         <div class="recognitions-left-content">
                             <div class="section-top section-top-white full-width">
                                 <p>Reconhecimentos</p>
@@ -123,112 +126,112 @@
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row g-0">
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-chambers-brazil-2025.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-chambers-global-2025.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-legal-500.jpg" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-latin-lawyer-250-2026.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-iflr1000-2025.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-leading-firm-2026.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-brazil-legal-summit.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-legal-500.jpg" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-ttr.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-grr-100.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-lacca-2026.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-analise-advocacia-2026.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-refinitiv.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-lexology-index.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-latin-finance.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
                         <a href="#">
                             <img src="img/selo-itr-awards-2025.png" alt="">
@@ -256,7 +259,7 @@
                     </div>
                 </div>
                 <div class="spacer-30"></div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="areas-grid-title text-green">
                         <h2>Lorem ipsum dolor sit amet consectetur adipiscing</h2>
                     </div>
@@ -316,6 +319,13 @@
                     </a>
                 </div>
             </div>
+            <div class="spacer-30"></div>
+            <div class="row">
+                <div class="col-12 d-flex justify-content-center">
+                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige"> VER TODAS AS ÁREAS <i class="bi bi-arrow-up-right"></i></a>
+                </div>
+            </div>
+            <div class="spacer-30"></div>
         </div>
     </section>
     <section id="professionals">
@@ -328,10 +338,12 @@
                         <div class="spacer-10"></div>
                     </div>
                 </div>
-                <div class="col-6 text-green">
+                <div class="spacer-30"></div>
+                <div class="col-12 col-lg-6 text-green">
                     <p>Pinheiro Guimarães conta com quadro de advogados altamente qualificado e experiente, formado nas melhores universidades do país, fluente em diversos idiomas estrangeiros, com cursos de aperfeiçoamento e mestrado nas melhores universidades do Brasil e do exterior e experiência em grandes escritórios internacionais.</p>
                 </div>
-                <div class="col-6">
+                <div class="spacer-30"></div>
+                <div class="col-12 col-lg-6">
                     <div class="busca-professionals">
                         <div class="busca-item">
                             <a href="">
@@ -367,13 +379,13 @@
                         <h2>Publicações</h2>
                     </div>
                 </div>
-                <div class="col-3 d-flex justify-content-end">
+                <div class="col-3 d-none d-lg-flex justify-content-end">
                     <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
             <div class="row wrapper-cards-publications">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -392,7 +404,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -411,7 +423,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -430,6 +442,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="col-12 d-flex d-lg-none justify-content-center">
+                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
             </div>
             <div class="spacer-60"></div>
         </div>
@@ -508,26 +523,26 @@
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-mail.svg" alt="">
                         <span>RECEBA NOSSO MAILING</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-tel.svg" alt="">
                         <span>ENTRE EM CONTATO CONOSCO</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-team.svg" alt="">
                         <span>VENHA FAZER PARTE DO NOSSO TIME</span>
                     </a>
                 </div>
             </div>
-            <div class="spacer-60"></div>
+            <div class="spacer-40"></div>
         </div>
     </section>
 <?php require_once 'footer.php'; ?>

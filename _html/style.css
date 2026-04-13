@@ -1020,7 +1020,7 @@ em {
     margin: 0 40px;
 }
 #about>div>div>div h3 {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 700;
 }
 #about>div>div>div .about-btns {
@@ -1035,6 +1035,7 @@ em {
     align-items: center;
     text-decoration: none;
     margin-right: 37px;
+    margin-bottom: 20px;
 }
 #about>div>div>div .about-btns a i {
     margin-left: 8px;
@@ -1224,6 +1225,10 @@ em {
 #professionals>div {}
 #professionals>div>div {}
 #professionals>div>div>div {}
+#professionals>div>div>div p {
+    font-size: 20px;
+    font-weight: 700;
+}
 #professionals>div>div>div .busca-professionals {
     display: flex;
     flex-direction: column;
@@ -1324,6 +1329,7 @@ em {
     border: 3px solid #01655C;
     border-radius: 12px;
     padding: 70px 86px;
+    margin-bottom: 20px;
     height: 300px;
     transition: background 0.2s, color 0.2s;
 }
@@ -1377,19 +1383,17 @@ em {
 #about-us {}
 #about-us>div {}
 #about-us>div>div {
-    margin-left: 70px;
 }
 #about-us>div>div>div {
-    margin-right: 30px;
 }
 #about-us>div>div>div .about-us-title {}
 #about-us>div>div>div .about-us-title h2 {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 700;
 }
 #about-us>div>div>div .about-us-content {}
 #about-us>div>div>div .about-us-content p {
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Merriweather Sans';
 }
 
@@ -1414,7 +1418,9 @@ em {
     font-style: italic;
     margin-bottom: 20px;
 }
-#manifest>div>div>div .manifest-col-content {}
+#manifest>div>div>div .manifest-col-content {
+    margin-bottom: 30px;
+}
 #manifest>div>div>div .manifest-col-content p {
     font-size: 14px;
     font-family: 'Merriweather Sans';
@@ -1435,17 +1441,17 @@ em {
 
 #timeline {}
 #timeline>div {}
-#timeline>div>div {
-    margin-left: 70px;
-}
+#timeline>div>div {}
 #timeline>div>div>div {}
 #timeline>div>div>div .timeline-subtitle {}
 #timeline>div>div>div .timeline-subtitle h2 {
-    font-size: 25px;
+    font-size: 31px;
     font-weight: 700;
 }
 #timeline>div>div>div {}
-#timeline>div>div>div .main-btn {}
+#timeline>div>div>div .main-btn {
+    margin: 18px 0;
+}
 #timeline>div>div>div .main-btn i {
     margin-left: 8px;
     font-size: 15px;
@@ -1490,7 +1496,9 @@ em {
     font-size: 25px;
     font-weight: 700;
 }
-#about-us-timeline>div>div>div .about-us-timeline-content {}
+#about-us-timeline>div>div>div .about-us-timeline-content {
+    margin-bottom: 40px;
+}
 #about-us-timeline>div>div>div .about-us-timeline-content p {
     font-size: 16px;
     font-family: 'Merriweather Sans';
@@ -1836,6 +1844,7 @@ em {
     position: relative;
     border-bottom: 1px solid #004C42;
     padding-bottom: 8px;
+    margin-bottom: 40px;
 }
 #our-team>div>div>div .our-team-filter-search input {
     border: none;
@@ -1861,6 +1870,7 @@ em {
     position: relative;
     border-bottom: 1px solid #004C42;
     padding-bottom: 8px;
+    margin-bottom: 40px;
 }
 #our-team>div>div>div .our-team-filter-select select {
     border: none;
@@ -1894,6 +1904,7 @@ em {
     align-items: center;
     transition: 0.3s;
     white-space: nowrap;
+    margin-bottom: 40px;
 }
 #our-team>div>div>div .our-team-filter-btn:hover {
     background: #02231F;
@@ -2078,7 +2089,9 @@ em {
 #member-details>div {}
 #member-details>div>div {}
 #member-details>div>div>div {}
-#member-details>div>div>div .member-details-block {}
+#member-details>div>div>div .member-details-block {
+    margin-bottom: 40px;
+}
 #member-details>div>div>div .member-details-block h1 {
     font-size: 25px;
     font-weight: 700;
@@ -2266,7 +2279,7 @@ em {
     position: relative;
     border-bottom: 1px solid #004C42;
     padding-bottom: 8px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 #publications-filter>div>div>div .publications-filter-search input {
     border: none;
@@ -2291,6 +2304,7 @@ em {
     position: relative;
     border-bottom: 1px solid #004C42;
     padding-bottom: 8px;
+    margin-bottom: 40px;
     min-width: 180px;
 }
 #publications-filter>div>div>div .publications-filter-select select {
@@ -2353,6 +2367,7 @@ em {
     border-radius: 6px;
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
     padding: 12px;
 }
 #publications-podcast>div>div>div .podcast-card .podcast-card-thumb {}
@@ -2420,7 +2435,9 @@ em {
 #publications-youtube>div {}
 #publications-youtube>div>div {}
 #publications-youtube>div>div>div {}
-#publications-youtube>div>div>div .youtube-card {}
+#publications-youtube>div>div>div .youtube-card {
+    margin-bottom: 40px;
+}
 #publications-youtube>div>div>div .youtube-card-thumb {
     position: relative;
     overflow: hidden;
@@ -2468,7 +2485,7 @@ em {
     position: relative;
     border-bottom: 1px solid #004C42;
     padding-bottom: 8px;
-    margin-bottom: 24px;
+    margin-bottom: 30px;
 }
 #publications-newsletter>div>div>div .newsletter-field input {
     font-size: 14px;

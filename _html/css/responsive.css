@@ -1,0 +1,96 @@
+@media screen and (max-width: 1280px) {}
+@media screen and (max-width: 991px) {}
+@media screen and (max-width: 768px) {}
+@media screen and (max-width: 500px) {
+    .about-tagline span {
+        font-size: 24px;
+    }
+    .about-tagline span img {
+        margin: 0 15px;
+        height: 30px;
+    }
+    .section-top {
+        font-size: 16px;
+    }
+    .section-top[class*="width-"]::after {
+        width: 100%;
+    }
+    #recognitions {
+        padding-bottom: 0 !important;
+        background-color: #ffffff !important; 
+    }
+    #recognitions>div {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    #recognitions>div>div>div:last-child {
+        transform: translateY(0) !important;
+    }
+    #recognitions>div>div>div .recognitions-left {
+        justify-content: flex-start !important;
+        width: 100% !important;
+    }
+    #recognitions>div>div>div .recognitions-left-content {
+        padding: 40px 20px !important;
+    }
+    #recognitions>div>div>div .recognitions-right {
+        padding-right: 0 !important;
+    }
+    #recognitions>div>div>div .recognitions-right .recognitions-right-content {
+        padding: 60px 40px 40px 40px !important; 
+    }
+    #recognitions .recognitions-quote blockquote {
+        font-size: 15px !important; 
+        line-height: 22px !important;
+    }
+    
+    #recognitions>div>div>div .recognitions-left-content .recognitions-tagline span {
+        font-size: 22px !important;
+    }
+    #recognitions>div>div>div .recognitions-left-content .recognitions-tagline h2 img {
+        height: 32px !important;
+        margin: 0 10px !important;
+    }
+    #recognitions>div>div>div .recognitions-left-content .recognitions-content p {
+        font-size: 15px;
+    }
+    #recognitions>div>div>div:first-child::after {
+        right: auto !important;
+        left: 20px !important; 
+        bottom: -35px !important;
+        width: 50px !important;
+        height: 60px !important;
+    }
+    #recognitions .append-arrows {
+        width: 100% !important;
+        right: 0 !important;
+        left: 0 !important;
+    }
+    #recognitions .append-arrows .slick-prev { left: 5px !important; }
+     .append-arrows .slick-next { right: 5px !important; }
+    #awards-grid>div>div> .col-6 .award-grid-item {
+        border-right: 1px solid #01655C !important;
+        border-bottom: 1px solid #01655C !important;
+    }
+    #awards-grid>div>div> .col-6:nth-child(2n) .award-grid-item {
+        border-right: none !important;
+    }
+    #awards-grid>div>div> .col-6:nth-last-child(-n+2) .award-grid-item {
+        border-bottom: none !important;
+    }
+    .default-tagline h1 {
+        font-size: 28px !important;
+    }
+    .default-tagline h1 img {
+        font-size: 28px !important;
+    }
+    .timeline-subtitle h2 {
+        font-size: 22px !important;
+    }
+    .diversity-subtitle h2 {
+        font-size: 22px !important;
+    }
+    .diversity-content p {
+        font-size: 19px !important;
+    }
+}

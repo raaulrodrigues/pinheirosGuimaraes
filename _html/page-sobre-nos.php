@@ -19,12 +19,13 @@
     <section id="about-us" class="bg-beige">
         <div class="spacer-80"></div>
         <div class="container">
-            <div class="row">
-                <div class="col-10">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-10">
                     <div class="about-us-title title-green">
                         <h2>Mais de 100 anos de história nos ensinaram que a excelência não é uma meta, mas um ponto de partida.</h2>
                     </div>
-                    <div class="about-us-content text-dark-green">                        <div class="spacer-30"></div>
+                    <div class="about-us-content text-dark-green">                        
+                        <div class="spacer-30"></div>
                         <p>Pinheiro Guimarães presta serviços a clientes no Brasil e no exterior e conta com advogados, estagiários e funcionários fluentes em diversos idiomas.</p>
                         <div class="spacer-10"></div>
                         <p>Pinheiro Guimarães possui vasta experiência internacional, sendo um dos líderes em operações de emissão e colocação de títulos e valores mobiliários no Brasil e no exterior, empréstimos sindicalizados, financiamentos ao comércio exterior, fusões, aquisições, financiamentos de projetos, private equity, securitização de recebíveis, fundos de investimento, reestruturação de dívidas, falência e recuperações judiciais e extrajudiciais, contencioso, arbitragem e consultoria tributária.</p>
@@ -53,7 +54,7 @@
             </div>
             <div class="spacer-40"></div>
             <div class="row">
-                <div class="col-6">
+                <div class="col-12 col-lg-6">
                     <div class="manifest-col-title title-white text-white">
                         <h2>Somos mais do que um escritório de advocacia.</h4>
                     </div>
@@ -64,7 +65,7 @@
                         <p>Somos movidos pela paixão em exceder expectativas, agregando valor real às operações, e mergulhando na complexidade de cada caso com dedicação, resiliência e precisão inigualáveis.</p>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-12 col-lg-6">
                     <div class="manifest-col-title text-white">
                         <h2>Para nós, a excelência não é uma meta, mas um ponto de partida.</h2>
                     </div>
@@ -73,7 +74,7 @@
                         <div class="spacer-10"></div>
                         <p>Somos a tradição que inova. Somos a excelência que transforma. Somos o seu parceiro para o sucesso.</p>
                     </div>
-                    <div class="spacer-20"></div>
+                    <div class="spacer-lg-20"></div>
                 </div>
             </div>
             <div class="spacer-40"></div>
@@ -88,19 +89,21 @@
     <section id="timeline" class="bg-beige">
         <div class="spacer-60"></div>
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-12 col-lg-5">
-                    <div class="section-top section-top-green width-85">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-10">
+                    <div class="section-top section-top-green width-45">
                         <span>Linha do Tempo</span>
                         <div class="spacer-10"></div>
                     </div>
-                    <div class="spacer-20"></div>
+                </div>
+                <div class="spacer-30"></div>
+                <div class="col-12 col-lg-6">
                     <div class="timeline-subtitle title-green">
                         <h2>Conheça mais sobre a história do escritório vendo a nossa linha do tempo</h2>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6 d-flex justify-content-lg-end justify-content-start">
-                    <a href="#" class="main-btn bg-green bg-hover-dark-green text-white text-hover-beige"> CONHEÇA NOSSA HISTÓRIA <i class="bi bi-arrow-up-right"></i></a>
+                <div class="col-12 col-lg-4 d-flex justify-content-lg-end">
+                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige"> CONHEÇA NOSSA HISTÓRIA <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-60"></div>
@@ -127,25 +130,25 @@
             </div>
             <div class="spacer-80"></div>
             <div class="row">
-                <div class="col-6 col-lg-3">
+                <div class="col-12 col-lg-3">
                     <div class="diversity-stat text-dark-green title-green">
                         <h3>100%</h3>
                         <p>Lorem ipsum dolor sit amet</p>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3">
+                <div class="col-12 col-lg-3">
                     <div class="diversity-stat text-dark-green title-green">
                         <h3>100%</h3>
                         <p>Lorem ipsum dolor sit amet</p>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3">
+                <div class="col-12 col-lg-3">
                     <div class="diversity-stat text-dark-green title-green">
                         <h3>100%</h3>
                         <p>Lorem ipsum dolor sit amet</p>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3">
+                <div class="col-12 col-lg-3">
                     <div class="diversity-stat text-dark-green title-green">
                         <h3>100%</h3>
                         <p>Lorem ipsum dolor sit amet</p>
@@ -229,26 +232,26 @@
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-mail.svg" alt="">
                         <span>RECEBA NOSSO MAILING</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-tel.svg" alt="">
                         <span>ENTRE EM CONTATO CONOSCO</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-team.svg" alt="">
                         <span>VENHA FAZER PARTE DO NOSSO TIME</span>
                     </a>
                 </div>
             </div>
-            <div class="spacer-60"></div>
+            <div class="spacer-40"></div>
         </div>
     </section>
 <?php require_once 'footer.php'; ?>

@@ -20,7 +20,7 @@
         <div class="spacer-40"></div>
         <div class="container">
             <div class="row">
-                <div class="col-12">
+                <div class="col-lg-12 d-none d-lg-flex">
                     <div class="publications-filter-categories">
                         <a href="#" class="active">CATEGORIA 1</a>
                         <a href="#">CATEGORIA 2</a>
@@ -33,6 +33,13 @@
                         <a href="#">CATEGORIA 9</a>
                         <a href="#">CATEGORIA 10</a>
                         <a href="#">CATEGORIA 11</a>
+                    </div>
+                </div>
+                <div class="col-lg-12 d-flex d-lg-none justify-content-center">
+                    <div class="publications-filter-categories">
+                        <a href="#">CATEGORIA 1</a>
+                        <a href="#">CATEGORIA 2</a>
+                        <a href="#">CATEGORIA 3</a>
                     </div>
                 </div>
             </div>
@@ -100,7 +107,7 @@
             </div>
             <div class="spacer-50"></div>
             <div class="row wrapper-cards-publications">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -119,7 +126,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -138,7 +145,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -157,7 +164,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -176,7 +183,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -195,7 +202,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -240,7 +247,7 @@
             </div>
             <div class="spacer-50"></div>
             <div class="row wrapper-cards-publications">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -259,7 +266,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -278,7 +285,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -297,7 +304,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -316,7 +323,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -335,7 +342,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -448,7 +455,7 @@
             <div class="spacer-60"></div>
         </div>
     </section>
-    <section id="publications-youtube" class="bg-green">
+    <section id="publications-youtube" class="bg-light-green">
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row">
@@ -507,7 +514,6 @@
                     </div>
                 </div>
             </div>
-            <div class="spacer-40"></div>
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
                     <a href="#" class="main-btn bg-white bg-hover-dark-green text-green text-hover-white">VER TUDO <i class="bi bi-arrow-up-right"></i></a>

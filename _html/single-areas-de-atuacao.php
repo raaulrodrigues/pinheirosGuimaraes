@@ -114,16 +114,16 @@
             <div class="row align-items-center">
                 <div class="col-9">
                     <div class="publications-title text-green">
-                        <h2>Publicações Relacionadas</h2>
+                        <h2>Últimas Publicações</h2>
                     </div>
                 </div>
-                <div class="col-3 d-flex justify-content-end">
+                <div class="col-3 d-none d-lg-flex justify-content-end">
                     <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
             <div class="row wrapper-cards-publications">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -142,7 +142,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -161,7 +161,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -181,18 +181,22 @@
                     </div>
                 </div>
             </div>
+            <div class="col-12 d-flex d-lg-none justify-content-center">
+                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
+            </div>
+            <div class="spacer-60"></div>
         </div>
     </section>
     <section id="areas-grid" class="bg-beige">
         <div class="spacer-30"></div>
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-9">
+                <div class="col-12 col-lg-9">
                     <div class="areas-grid-title text-green">
-                        <h2>Áreas de atuação Relacionadas</h2>
+                        <h2>Outras Áreas de Atuação </h2>
                     </div>
                 </div>
-                <div class="col-3 d-flex justify-content-end">
+                <div class="col-3 d-none d-lg-flex justify-content-end">
                     <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODas as áreas de atuação <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
@@ -248,6 +252,11 @@
                             </div>
                         </div>
                     </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 d-none d-lg-flex justify-content-end">
+                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODas as áreas de atuação <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
         </div>
@@ -326,26 +335,26 @@
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-mail.svg" alt="">
                         <span>RECEBA NOSSO MAILING</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-tel.svg" alt="">
                         <span>ENTRE EM CONTATO CONOSCO</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-team.svg" alt="">
                         <span>VENHA FAZER PARTE DO NOSSO TIME</span>
                     </a>
                 </div>
             </div>
-            <div class="spacer-60"></div>
+            <div class="spacer-40"></div>
         </div>
     </section>
 <?php require_once 'footer.php'; ?>

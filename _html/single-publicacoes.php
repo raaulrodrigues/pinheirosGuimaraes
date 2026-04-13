@@ -29,16 +29,16 @@
             <div class="row align-items-center">
                 <div class="col-9">
                     <div class="publications-title text-green">
-                        <h2>Publicações Relacionadas</h2>
+                        <h2>Publicações</h2>
                     </div>
                 </div>
-                <div class="col-3 d-flex justify-content-end">
+                <div class="col-3 d-none d-lg-flex justify-content-end">
                     <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
             <div class="row wrapper-cards-publications">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -57,7 +57,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -76,7 +76,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
@@ -96,6 +96,10 @@
                     </div>
                 </div>
             </div>
+            <div class="col-12 d-flex d-lg-none justify-content-center">
+                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
+            </div>
+            <div class="spacer-60"></div>
         </div>
     </section>
     <section id="areas-grid" class="bg-beige">
