@@ -34,7 +34,7 @@
                                 <div class="category-content text-white">
                                     <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
                                 </div>
-                                <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                             </div>
                             <div class="bg-light-green">
                                 <div class="section-top section-top-white full-width">
@@ -44,7 +44,7 @@
                                 <div class="category-content text-white">
                                     <p>Governo sanciona o PL 1.087, que amplia a isenção do imposto de renda da pessoa física e institui tributação mínima para altas rendas e tributação dos dividendos</p>
                                 </div>
-                                <a href="#" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-white bg-hover-light-green text-light-green text-hover-white">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -73,9 +73,9 @@
                     <h3 class="text-green">Mais de 100 anos de história nos ensinaram que a excelência não é uma meta, mas um ponto de partida.</h3>
                     <div class="spacer-30"></div>
                     <div class="about-btns">
-                        <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">O ESCRITÓRIO <i class="bi bi-arrow-up-right"></i></a>
-                        <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">NOSSO MANIFESTO <i class="bi bi-arrow-up-right"></i></a>
-                        <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">NOSSA HISTÓRIA <i class="bi bi-arrow-up-right"></i></a>
+                        <a href="page-sobre-nos.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">O ESCRITÓRIO <i class="bi bi-arrow-up-right"></i></a>
+                        <a target="_blank" href="img/manifesto.pdf" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">NOSSO MANIFESTO <i class="bi bi-arrow-up-right"></i></a>
+                        <a href="page-linha-do-tempo.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">NOSSA HISTÓRIA <i class="bi bi-arrow-up-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -128,112 +128,112 @@
             <div class="row g-0">
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-chambers-brazil-2025.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-chambers-global-2025.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-legal-500.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-latin-lawyer-250-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-iflr1000-2025.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-leading-firm-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-brazil-legal-summit.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-legal-500.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-ttr.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-grr-100.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-lacca-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-analise-advocacia-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-refinitiv.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-lexology-index.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-latin-finance.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-itr-awards-2025.png" alt="">
                         </a>
                     </div>
@@ -242,7 +242,7 @@
             <div class="spacer-30"></div>
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS <i class="bi bi-arrow-up-right"></i></a>
+                    <a href="page-reconhecimento-listagem.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-60"></div>
@@ -270,7 +270,7 @@
         <div class="container-fluid p-0">
             <div class="row g-0">
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-ambiental.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -282,7 +282,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-bancario.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -294,7 +294,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-contencioso.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right">
@@ -307,7 +307,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-credito.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -322,7 +322,7 @@
             <div class="spacer-30"></div>
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige"> VER TODAS AS ÁREAS <i class="bi bi-arrow-up-right"></i></a>
+                    <a href="page-area-de-atuacao.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige"> VER TODAS AS ÁREAS <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
@@ -331,7 +331,7 @@
     <section id="professionals">
         <div class="spacer-60"></div>
         <div class="container">
-            <div class="row row align-items-center">
+            <div class="row align-items-center justify-content-between">
                 <div class="col-12">
                     <div class="section-top section-top section-top-green width-25">
                         <span>PROFISSIONAIS</span>
@@ -339,10 +339,9 @@
                     </div>
                 </div>
                 <div class="spacer-30"></div>
-                <div class="col-12 col-lg-6 text-green">
-                    <p>Pinheiro Guimarães conta com quadro de advogados altamente qualificado e experiente, formado nas melhores universidades do país, fluente em diversos idiomas estrangeiros, com cursos de aperfeiçoamento e mestrado nas melhores universidades do Brasil e do exterior e experiência em grandes escritórios internacionais.</p>
+                <div class="col-12 col-lg-5 text-green">
+                    <p>Pinheiro Guimarães conta com quadro de advogados altamente qualificado e experiente, formado nas melhores universidades do país, fluente em diversos idiomas estrangeiros, com cursos de aperfeiçoamento e mestrado nas melhores universidades do Brasil e do exterior e experiência em grandes escritórios internacionais.</p>
                 </div>
-                <div class="spacer-30"></div>
                 <div class="col-12 col-lg-6">
                     <div class="busca-professionals">
                         <div class="busca-item">
@@ -364,7 +363,7 @@
                             </a>
                         </div>
                     </div>
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS OS PROFISSIONAIS <i class="bi bi-arrow-up-right"></i></a>
+                    <a href="page-equipe-listagem.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS OS PROFISSIONAIS <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-60"></div>
@@ -380,7 +379,7 @@
                     </div>
                 </div>
                 <div class="col-3 d-none d-lg-flex justify-content-end">
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
+                    <a href="page-listagem-publicacao.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
@@ -389,7 +388,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -398,7 +399,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -408,7 +409,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -417,7 +420,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -427,7 +430,10 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                                    
+                                </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -436,7 +442,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -444,105 +450,10 @@
                 </div>
             </div>
             <div class="col-12 d-flex d-lg-none justify-content-center">
-                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
+                <a href="page-lsitagem-publicacao.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
             </div>
             <div class="spacer-60"></div>
         </div>
     </section>
-    <section id="awards">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-chambers-brazil-2025.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-chambers-global-2025.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-legal-500.jpg" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-latin-lawyer-250-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-iflr1000-2025.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-leading-firm-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-brazil-legal-summit.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-ttr.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="spacer-50"></div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-legal-500.jpg" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-grr-100.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-lacca-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-analise-advocacia-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-refinitiv.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-lexology-index.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-latin-finance.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-itr-awards-2025.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="useful-links" class="bg-beige">
-        <div class="spacer-60"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-top section-top-green width-25">
-                        <span>LINKS ÚTEIS</span>
-                        <div class="spacer-10"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="spacer-60"></div>
-            <div class="row">
-                <div class="col-12 col-lg-4">
-                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
-                        <img src="img/icon-mail.svg" alt="">
-                        <span>RECEBA NOSSO MAILING</span>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
-                        <img src="img/icon-tel.svg" alt="">
-                        <span>ENTRE EM CONTATO CONOSCO</span>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
-                        <img src="img/icon-team.svg" alt="">
-                        <span>VENHA FAZER PARTE DO NOSSO TIME</span>
-                    </a>
-                </div>
-            </div>
-            <div class="spacer-40"></div>
-        </div>
-    </section>
+    <?php include('awards-links.php'); ?>
 <?php require_once 'footer.php'; ?>
