@@ -1689,6 +1689,68 @@ em {
     transform: scale(1.05);
 }
 
+#featured-recognition {}
+#featured-recognition>div {}
+#featured-recognition>div>div {}
+#featured-recognition>div>div>div {}
+#featured-recognition>div>div>div .featured-recognition-img {}
+#featured-recognition>div>div>div .featured-recognition-img img {}
+#featured-recognition>div>div>div .featured-recognition-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#featured-recognition>div>div>div .featured-recognition-header .featured-recognition-header-content {}
+#featured-recognition>div>div>div .featured-recognition-header .custom-arrows {
+    display: flex;
+    gap: 50px;
+}
+#featured-recognition>div>div>div .featured-recognition-header .custom-arrows .slick-arrow {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    border: 1px solid #fff;
+    background: transparent;
+    overflow: hidden;
+}
+#featured-recognition>div>div>div .featured-recognition-header .custom-arrows .slick-arrow::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 62%;
+    width: 18px;
+    height: 18px;
+    transform: translate(-50%, -50%);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#featured-recognition .featured-recognition-header .custom-arrows .slick-prev::before {
+    background-image: url('img/prev-white-arrow.svg');
+}
+
+#featured-recognition .featured-recognition-header .custom-arrows .slick-next::before {
+    background-image: url('img/next-white-arrow.svg');
+}
+#featured-recognition>div>div>div .featured-recognition-header .featured-recognition-header-content p {
+    font-family: 'Merriweather Sans';
+    font-weight: 300;
+    font-size: 22px;
+}
+#featured-recognition>div>div>div .featured-recognition-header .featured-recognition-header-content h2 {
+    font-weight: 700;
+    font-size: 38px;
+}
+#featured-recognition>div>div>div .featured-recognition-bottom {}
+#featured-recognition>div>div>div .featured-recognition-bottom .featured-recognition-bottom-content {}
+#featured-recognition>div>div>div .featured-recognition-bottom .featured-recognition-bottom-content p {
+    font-family: 'Merriweather Sans';
+    margin-bottom: 10px;
+}
+#featured-recognition>div>div>div .featured-recognition-bottom .featured-recognition-bottom-content p a {}
+
+
+
+
 #recognitions-slider {}
 #recognitions-slider>div {}
 #recognitions-slider>div .recognitions-slider-title {}
