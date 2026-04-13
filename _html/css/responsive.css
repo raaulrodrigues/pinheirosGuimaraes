@@ -96,4 +96,33 @@
     .contact-map{
         margin-top: 40px;
     }
+    footer .main-footer>div>div>div {
+        margin-bottom: 30px !important;
+    }
+    .footer-links {
+        flex-direction: column;
+        gap: 15px !important;
+        margin: 20px 0 !important;
+    }
+    .footer-links a {
+        text-align: center;
+    }
+    .bottom-footer .separator {
+        display: none !important; 
+    }
+    #areas-grid .area-card .area-card-inner {
+        aspect-ratio: auto !important;
+        height: 220px;
+        padding: 12px; 
+    }
+    #areas-grid .area-card .area-card-title h3 {
+        font-size: 16px !important; 
+        margin: 0 0 10px 10px !important;
+        line-height: 1.2;
+    }
+    #areas-grid .area-card .area-card-arrow {
+        margin: 10px 0 0 10px !important; 
+        width: 32px !important;
+        height: 32px !important;
+    }
 }
