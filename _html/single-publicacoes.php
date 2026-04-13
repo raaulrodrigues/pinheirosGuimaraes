@@ -30,6 +30,138 @@
         </div>
         <div class="spacer-40"></div>
     </section>
+    <section id="practice-content" class="bg-beige">
+        <div class="spacer-60"></div>
+        <div class="container">
+            <div class="row align-items-stretch">
+                <div class="col-12 col-lg-6">
+                    <div class="practice-content-main">
+                        <div class="spacer-30"></div>
+                        <div class="practice-content-text text-dark-green title-green">
+                            <p>A disciplina da fraude contra credores e da fraude à execução reflete a necessidade de equilibrar a autonomia privada na disposição de bens com a proteção dos credores e a efetividade da jurisdição. Ambas as figuras possuem raízes no princípio da responsabilidade patrimonial, segundo o qual o devedor responde com a integralidade de seus bens presentes e futuros para o adimplemento de suas obrigações (art. 789 do Código Civil), respondendo ainda pela reparação de danos causados a terceiros, solidariamente quando houver mais de um responsável (art. 942 do Código Civil).</p>
+                            <p>Este artigo visa esclarecer as distinções entre fraude à execução e fraude contra credores, destacando seus fundamentos legais, requisitos e efeitos práticos, oferecendo uma visão integrada sobre a proteção dos credores e a efetividade da jurisdição.</p>
+                            <div class="spacer-30"></div>
+                            <h2>Fraude contra credores</h2>
+                            <p>A fraude contra credores configura-se quando o devedor insolvente, ou que se torne insolvente em razão do ato, realiza negócios que alteram a situação patrimonial do devedor em prejuízo de credores preexistentes. Em hipóteses excepcionais, a jurisprudência admite o reconhecimento de fraude contra credores para credores futuros.</p>
+                            <h2>Instrumento de impugnação</h2>
+                            <p>A via adequada de questionamento é a ação pauliana, proposta por credores quirografários ou por credores reais cuja garantia tenha se tornado insuficiente. Seus efeitos recaem sobre devedores e terceiros envolvidos nos atos fraudulentos, resultando em anulação ou ineficácia relativa dos negócios, a depender do entendimento da jurisprudência.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 offset-lg-2 bg-green">
+                    <div class="practice-related-box">
+                        <div class="spacer-30"></div>
+                        <div class="practice-related-title title-white">
+                            <h1>Advogados Relacionados</h1>
+                        </div>
+                        <div class="practice-related-list">
+                            <div class="practice-related-card">
+                                <div class="practice-related-card-img">
+                                    <img src="img/example-socio.jpg" alt="">
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
+                                </div>
+                                <div class="practice-related-card-info text-white">
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
+                                    <span>SÓCIO</span>
+                                    <div class="practice-related-card-contacts">
+                                        <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                        <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                        <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 offset-lg-2 bg-white">
+                    <div class="practice-related-box">
+                        <div class="spacer-30"></div>
+                        <div class="practice-related-title title-green">
+                            <h1>Advogados Relacionados</h1>
+                        </div>
+                        <div class="practice-related-list">
+                            <div class="practice-related-card">
+                                <div class="practice-related-card-img">
+                                    <img src="img/example-socio.jpg" alt="">
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
+                                </div>
+                                <div class="practice-related-card-info text-green">
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
+                                    <span>SÓCIO</span>
+                                    <div class="practice-related-card-contacts">
+                                        <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                        <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                        <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="practice-related-card">
+                                <div class="practice-related-card-img">
+                                    <img src="img/example-socio.jpg" alt="">
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
+                                </div>
+                                <div class="practice-related-card-info text-green">
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
+                                    <span>SÓCIO</span>
+                                    <div class="practice-related-card-contacts">
+                                        <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                        <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                        <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="practice-related-card">
+                                <div class="practice-related-card-img">
+                                    <img src="img/example-socio.jpg" alt="">
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
+                                </div>
+                                <div class="practice-related-card-info text-green">
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
+                                    <span>SÓCIO</span>
+                                    <div class="practice-related-card-contacts">
+                                        <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                        <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                        <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="practice-related-card">
+                                <div class="practice-related-card-img">
+                                    <img src="img/example-socio.jpg" alt="">
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
+                                </div>
+                                <div class="practice-related-card-info text-green">
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
+                                    <span>SÓCIO</span>
+                                    <div class="practice-related-card-contacts">
+                                        <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                        <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                        <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="practice-related-card">
+                                <div class="practice-related-card-img">
+                                    <img src="img/example-socio.jpg" alt="">
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
+                                </div>
+                                <div class="practice-related-card-info text-green">
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
+                                    <span>SÓCIO</span>
+                                    <div class="practice-related-card-contacts">
+                                        <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                        <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                        <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="spacer-60"></div>
+        </div>
+    </section>
     <section id="publications" class="bg-beige">
         <div class="spacer-60"></div>
         <div class="container">

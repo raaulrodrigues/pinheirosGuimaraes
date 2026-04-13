@@ -1704,7 +1704,7 @@ em {
 #featured-recognition>div>div {
     position: relative;
 }
-#featured-recognition>div>div:nth-child(2)::before {
+#featured-recognition>div>:nth-child(1)div:first-child::before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
@@ -2172,7 +2172,7 @@ em {
 #member-hero>div>div {
     position: relative;
 }
-#member-hero>div>div:nth-child(2)::before {
+#member-hero>div>:nth-child(2)div:first-child::before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
@@ -2406,6 +2406,7 @@ em {
     padding: 16px 0;
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
+
 #practice-content>div>div>div .practice-related-box .practice-related-list .practice-related-card:last-child {
     border-bottom: none;
 }

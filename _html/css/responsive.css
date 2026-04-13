@@ -96,4 +96,15 @@
     .contact-map{
         margin-top: 40px;
     }
+    .footer-links {
+        flex-direction: column;
+        gap: 15px !important;
+        margin: 20px 0 !important;
+    }
+    .footer-links a {
+        text-align: center;
+    }
+    .bottom-footer .separator {
+        display: none !important; 
+    }
 }

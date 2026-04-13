@@ -1,8 +1,8 @@
     <footer class="bg-light-green">
         <div class="main-footer">
             <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
+                <div class="row justify-content-between align-items-start">
+                    <div class="col-12 col-lg-3 text-center d-flex flex-column align-items-center">
                         <img src="img/logo-pinheiroGui-white.svg" alt="">
                     </div>
                     <div class="col-12 d-flex justify-content-center">
@@ -11,7 +11,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-between">
-                    <div class="col text-white">
+                    <div class="col-12 col-lg-3 text-white">
                         <div>
                             <h6>Rio de Janeiro</h6>
                             <p>Av. Rio Branco 181, 27º Andar<br>20040-918 – Rio de Janeiro – RJ – Brasil</p>
@@ -19,7 +19,7 @@
                             <a href="mailto:pgrj@pinheiroguimaraes.com.br" class="contact-link text-white"><i class="bi bi-envelope"></i> pgrj@pinheiroguimaraes.com.br</a>
                         </div>
                     </div>
-                     <div class="col d-flex align-items-center flex-column text-white">
+                     <div class="col-12 col-lg-3 d-flex align-items-center flex-column text-white">
                         <div>
                             <h6>São Paulo</h6>
                             <p>Av. Brig. Faria Lima 3064, 14º Andar<br>01451-000 – São Paulo – SP – Brasil</p>
@@ -27,7 +27,7 @@
                             <a href="mailto:pgsp@pinheiroguimaraes.com.br" class="contact-link text-white"><i class="bi bi-envelope"></i> pgsp@pinheiroguimaraes.com.br</a>
                         </div>
                     </div>
-                    <div class="col d-flex flex-column justify-content-center align-items-end text-white">
+                    <div class="col-12 col-lg-3 d-flex flex-column justify-content-center align-items-end text-white">
                         <div>
                             <h6>Selos de certificação</h6>
                             <div class="d-flex">
@@ -45,11 +45,11 @@
         </div>
         <div class="bottom-footer">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-auto text-white">
+                <div class="row align-items-center text-center text-lg-start">
+                    <div class="col-12 col-lg-auto text-white">
                         <p>© 2025 Pinheiro Guimarães – Todos os direitos reservados</p>
                     </div>
-                    <div class="col d-flex justify-content-center align-items-center">
+                    <div class="col-12 col-lg d-flex justify-content-center align-items-center flex-wrap footer-links">
                         <span class="text-white separator">|</span>
                         <a href="#" class="text-white">Política de Privacidade</a>
                         <span class="text-white separator">|</span>
@@ -58,7 +58,7 @@
                         <a href="#" class="text-white">Certificações de Segurança e Privacidade</a>
                         <span class="text-white separator">|</span>
                     </div>
-                    <div class="col-auto">
+                    <div class="col-12 col-lg-auto">
                         <a href=""><img src="img/logo-th2.svg" alt=""></a>
                     </div>
                 </div>
