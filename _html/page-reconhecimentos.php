@@ -3,7 +3,7 @@
     <section id="featured-recognition" class="bg-beige">
         <div class="spacer-60"></div>
         <div class="container">
-            <div class="row justify-content-end align-items-center bg-green">
+            <div class="row justify-content-end align-items-center">
                 <div class="col-12 col-lg-3">
                     <div class="featured-recognition-img bg-white">
                         <img src="img/selo-chambers-brazil-2025.png" alt="Chambers Brazil" class="img-fluid">

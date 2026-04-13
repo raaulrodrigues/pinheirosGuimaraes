@@ -1701,8 +1701,22 @@ em {
 
 #featured-recognition {}
 #featured-recognition>div {}
-#featured-recognition>div>div {}
-#featured-recognition>div>div>div {}
+#featured-recognition>div>div {
+    position: relative;
+}
+#featured-recognition>div>div:first-child::before {
+    content: '';
+    width: 99999px;
+    height: calc(100% - 30px);
+    background: #004C42;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+#featured-recognition>div>div>div {
+    position: relative;
+}
 #featured-recognition>div>div>div .featured-recognition-img {}
 #featured-recognition>div>div>div .featured-recognition-img img {}
 #featured-recognition>div>div>div .featured-recognition-header {
@@ -1710,10 +1724,13 @@ em {
     align-items: center;
     justify-content: space-between;
 }
-#featured-recognition>div>div>div .featured-recognition-header .featured-recognition-header-content {}
+#featured-recognition>div>div>div .featured-recognition-header .featured-recognition-header-content {
+    width: 100%;
+}
 #featured-recognition>div>div>div .featured-recognition-header .custom-arrows {
     display: flex;
-    gap: 50px;
+    gap: 20px;
+    width: auto;
 }
 #featured-recognition>div>div>div .featured-recognition-header .custom-arrows .slick-arrow {
     position: relative;
