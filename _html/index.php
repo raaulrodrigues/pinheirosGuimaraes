@@ -53,7 +53,7 @@
         </div>
     </section>
     <section id="about" class="bg-beige">
-        <div class="spacer-200"></div>
+        <div class="spacer-150"></div>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-lg-5 d-none d-lg-block">

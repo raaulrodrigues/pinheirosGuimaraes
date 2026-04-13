@@ -111,7 +111,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -120,7 +122,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -130,7 +132,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -139,7 +143,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -149,7 +153,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -158,7 +164,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -168,7 +174,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -177,7 +185,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -187,7 +195,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -196,7 +206,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -206,7 +216,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -215,7 +227,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -251,7 +263,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -260,7 +274,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -270,7 +284,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -279,7 +295,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -289,7 +305,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -298,7 +316,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -308,7 +326,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -317,7 +337,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -327,7 +347,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -336,7 +358,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -346,7 +368,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -355,7 +379,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>

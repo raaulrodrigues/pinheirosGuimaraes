@@ -1,10 +1,10 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
-    <section id="featured-practice">
+    <section id="featured-practice" class="bg-beige">
         <div class="spacer-40"></div>
         <div class="container">
             <div class="row justify-content-end align-items-center">
-                <div class="col-12 col-lg-8 bg-green">
+                <div class="col-12 col-lg-8">
                     <div class="member-hero-bar">
                         <div class="spacer-20"></div>
                         <a href="#" class="member-hero-back">
@@ -284,11 +284,6 @@
                             </div>
                         </div>
                     </a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12 d-none d-lg-flex justify-content-end">
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODas as áreas de atuação <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
         </div>

@@ -2,10 +2,11 @@
     <div class="dynamicSpacer"></div>
     <section id="publication-hero" class="bg-beige">
         <div class="spacer-40"></div>
-        <div class="container bg-green">
+        <div class="container">
             <div class="spacer-30"></div>
-            <div class="row">
-                <div class="col-12 col-lg-8">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-12 col-lg-6">
+                    <div class="spacer-20"></div>
                     <div class="green-bar-back">
                         <a href="#"><i class="bi bi-arrow-up-left"></i> voltar para publicações </a>
                     </div>
@@ -17,10 +18,11 @@
                             <a href="#" class="main-btn bg-light-green text-white">Área de Atuação Relacionada</a>
                         </div>
                     </div>
+                    <div class="spacer-20"></div>
                 </div>
-                <div class="col-12 col-lg-3">
+                <div class="col-12 col-lg-6">
                     <div class="publication-hero-image">
-                        <img src="img/example-socio.jpg" alt="">
+                        <img class="w-100" src="img/placeholder-publications.jpg" alt="">
                     </div>
                 </div>
             </div>

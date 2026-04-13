@@ -1133,7 +1133,7 @@ em {
     left: 0;
     transform: translateX(-100%);
 }
-#recognitions>div>div>div:first-child::after {
+#recognitions>div>div>div:nth-child(2)::after {
     content: '';
     position: absolute;
     background: url(img/icon-quote.png?2134);
@@ -1704,7 +1704,7 @@ em {
 #featured-recognition>div>div {
     position: relative;
 }
-#featured-recognition>div>div:first-child::before {
+#featured-recognition>div>div:nth-child(2)::before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
@@ -2098,10 +2098,93 @@ em {
 
 /* Single areas de atuacao */
 
-#member-hero {}
+#member-hero {}#featured-practice {}
+#featured-practice>div {}
+#featured-practice>div>div {
+    position: relative;
+}
+#featured-practice>div>div:nth-child(2)::before {
+    content: '';
+    width: 99999px;
+    height: calc(100% - 30px);
+    background: #004C42;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+#featured-practice>div>div>div {
+    position: relative;
+}
+#featured-practice>div>div>div .member-hero-image {
+    height: 100%;
+}
+#featured-practice>div>div>div .member-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+}
+#featured-practice>div>div>div .member-hero-bar {
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-back {
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 11px;
+    font-family: 'Merriweather Sans';
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    transition: 0.2s;
+    border: none;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-back:hover {
+    border: 1px solid #fff;
+    padding: 10px 0 10px 10px;
+    max-width: 260px;
+    color: #fff;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-back i {
+    margin-right: 5px;
+    font-size: 13px;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-infos {}
+#featured-practice>div>div>div .member-hero-bar .member-hero-infos h1 {
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-infos span {
+    font-size: 18px;
+    font-family: 'Merriweather Sans';
+    font-weight: 300;
+    display: block;
+    margin-bottom: 24px;
+}
+
 #member-hero>div {}
-#member-hero>div>div {}
-#member-hero>div>div>div {}
+#member-hero>div>div {
+    position: relative;
+}
+#member-hero>div>div:nth-child(2)::before {
+    content: '';
+    width: 99999px;
+    height: calc(100% - 30px);
+    background: #004C42;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+#member-hero>div>div>div {
+    position: relative
+}
 #member-hero>div>div>div .member-hero-image {
     height: 100%;
 }
@@ -2215,6 +2298,61 @@ em {
 
 /* Single areas de atuacao */
 
+#featured-practice {}
+#featured-practice>div {}
+#featured-practice>div>div {}
+#featured-practice>div>div>div {}
+#featured-practice>div>div>div .member-hero-image {
+    height: 100%;
+}
+#featured-practice>div>div>div .member-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+}
+#featured-practice>div>div>div .member-hero-bar {
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-back {
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 11px;
+    font-family: 'Merriweather Sans';
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    transition: 0.2s;
+    border: none;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-back:hover {
+    border: 1px solid #fff;
+    padding: 10px 0 10px 10px;
+    max-width: 260px;
+    color: #fff;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-back i {
+    margin-right: 5px;
+    font-size: 13px;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-infos {}
+#featured-practice>div>div>div .member-hero-bar .member-hero-infos h1 {
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+#featured-practice>div>div>div .member-hero-bar .member-hero-infos span {
+    font-size: 18px;
+    font-family: 'Merriweather Sans';
+    font-weight: 300;
+    display: block;
+    margin-bottom: 24px;
+}
 
 #practice-content {}
 #practice-content>div {}
@@ -2814,10 +2952,25 @@ footer .bottom-footer>div>div>div a:hover img {
 
 #publication-hero {}
 #publication-hero>div {}
-#publication-hero>div>div {}
-#publication-hero>div>div>div {
-    padding: 30px 74px;
+#publication-hero>div>div {
+    position: relative;
 }
+#publication-hero>div>div:nth-child(2)::before {
+    content: '';
+    width: 99999px;
+    height: calc(100% - 30px);
+    background: #004C42;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+#publication-hero>div>div>div {
+    position: relative;
+}
+#publication-hero>div>div>div .publication-hero-image {
+}
+#publication-hero>div>div>div .publication-hero-image img {display: block;height: 100%;width: 100%;object-fit: cover;}
 #publication-hero>div>div>div .green-bar-back {
     display: flex;
     flex-direction: column;

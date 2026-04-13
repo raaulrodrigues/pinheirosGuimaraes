@@ -9,7 +9,7 @@
                         <img src="img/example-socio.jpg" alt="">
                     </div>
                 </div>
-                <div class="col-12 col-lg-8 bg-green">
+                <div class="col-12 col-lg-8">
                     <div class="member-hero-bar">
                         <div class="spacer-20"></div>
                         <a href="#" class="member-hero-back">
