@@ -5,7 +5,7 @@
         <div class="container bg-green">
             <div class="spacer-30"></div>
             <div class="row">
-                <div class="col-12 col-md-8">
+                <div class="col-12 col-lg-8">
                     <div class="green-bar-back">
                         <a href="#"><i class="bi bi-arrow-up-left"></i> voltar para publicações </a>
                     </div>
@@ -16,6 +16,11 @@
                         <div class="big-badge-category">
                             <a href="#" class="main-btn bg-light-green text-white">Área de Atuação Relacionada</a>
                         </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <div class="publication-hero-image">
+                        <img src="img/example-socio.jpg" alt="">
                     </div>
                 </div>
             </div>

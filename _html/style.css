@@ -2215,6 +2215,7 @@ em {
 
 /* Single areas de atuacao */
 
+
 #practice-content {}
 #practice-content>div {}
 #practice-content>div>div {}
@@ -2821,6 +2822,16 @@ footer .bottom-footer>div>div>div a:hover img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+#publication-hero>div>div>div .member-hero-image {
+    height: 100%;
+}
+#publication-hero>div>div>div .member-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    display: block;
 }
 #publication-hero>div>div>div .green-bar-back a {
     display: inline-flex;
