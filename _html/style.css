@@ -1128,12 +1128,12 @@ em {
     content: '';
     position: absolute;
     height: 100%;
-    background: #004c42;
+    background: #01655c;
     width: 999999px;
     left: 0;
     transform: translateX(-100%);
 }
-#recognitions>div>div>div:nth-child(2)::after {
+#recognitions>div>div>div:nth-child(1)::after {
     content: '';
     position: absolute;
     background: url(img/icon-quote.png?2134);
@@ -2103,7 +2103,7 @@ em {
 #featured-practice>div>div {
     position: relative;
 }
-#featured-practice>div>div:nth-child(2)::before {
+#featured-practice>div>:nth-child(2)div:first-child:before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
