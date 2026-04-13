@@ -21,7 +21,7 @@
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-lg-6">
                     <form class="contact-form" method="post" action="">
                         <div class="contact-field text-green">
                             <input type="text" placeholder="NOME">
@@ -46,7 +46,7 @@
                         <a href="#" class="main-btn bg-green bg-hover-dark-green text-white text-hover-beige">ENVIAR <i class="bi bi-arrow-up-right"></i></a>
                     </form>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-lg-6">
                     <div class="contact-map">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7313.171645583543!2d-46.684163164418!3d-23.583314328661707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59cc494f7013%3A0xd93a7cad488bd82a!2sPinheiro%20Guimar%C3%A3es!5e0!3m2!1spt-BR!2sbr!4v1774273950659!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
@@ -129,26 +129,26 @@
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-mail.svg" alt="">
                         <span>RECEBA NOSSO MAILING</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-tel.svg" alt="">
                         <span>ENTRE EM CONTATO CONOSCO</span>
                     </a>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-lg-4">
                     <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
                         <img src="img/icon-team.svg" alt="">
                         <span>VENHA FAZER PARTE DO NOSSO TIME</span>
                     </a>
                 </div>
             </div>
-            <div class="spacer-60"></div>
+            <div class="spacer-40"></div>
         </div>
     </section>
 <?php require_once 'footer.php'; ?>

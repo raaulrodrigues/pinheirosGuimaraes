@@ -432,8 +432,7 @@
                             <span class="publication-badge">CATEGORIA</span>
                             <a href="single-publicacoes.php">
                                 <img src="img/placeholder-publications.jpg" alt="">
-                                    
-                                </a>
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
