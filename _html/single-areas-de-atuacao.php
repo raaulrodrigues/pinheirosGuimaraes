@@ -55,10 +55,10 @@
                             <div class="practice-related-card">
                                 <div class="practice-related-card-img">
                                     <img src="img/example-socio.jpg" alt="">
-                                    <a href="#" class="practice-related-card-plus">+</a>
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
                                 </div>
                                 <div class="practice-related-card-info">
-                                    <h4><a href="#">Francisco José Pinheiro Guimarães</a></h4>
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
                                     <span>SÓCIO</span>
                                     <div class="practice-related-card-contacts">
                                         <a href="tel:+55"><i class="bi bi-telephone"></i></a>
@@ -70,10 +70,10 @@
                             <div class="practice-related-card">
                                 <div class="practice-related-card-img">
                                     <img src="img/example-socio.jpg" alt="">
-                                    <a href="#" class="practice-related-card-plus">+</a>
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
                                 </div>
                                 <div class="practice-related-card-info">
-                                    <h4><a href="#">Francisco José Pinheiro Guimarães</a></h4>
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
                                     <span>SÓCIO</span>
                                     <div class="practice-related-card-contacts">
                                         <a href="tel:+55"><i class="bi bi-telephone"></i></a>
@@ -85,10 +85,10 @@
                             <div class="practice-related-card">
                                 <div class="practice-related-card-img">
                                     <img src="img/example-socio.jpg" alt="">
-                                    <a href="#" class="practice-related-card-plus">+</a>
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
                                 </div>
                                 <div class="practice-related-card-info">
-                                    <h4><a href="#">Francisco José Pinheiro Guimarães</a></h4>
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
                                     <span>SÓCIO</span>
                                     <div class="practice-related-card-contacts">
                                         <a href="tel:+55"><i class="bi bi-telephone"></i></a>
@@ -100,10 +100,10 @@
                             <div class="practice-related-card">
                                 <div class="practice-related-card-img">
                                     <img src="img/example-socio.jpg" alt="">
-                                    <a href="#" class="practice-related-card-plus">+</a>
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
                                 </div>
                                 <div class="practice-related-card-info">
-                                    <h4><a href="#">Francisco José Pinheiro Guimarães</a></h4>
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
                                     <span>SÓCIO</span>
                                     <div class="practice-related-card-contacts">
                                         <a href="tel:+55"><i class="bi bi-telephone"></i></a>
@@ -115,10 +115,10 @@
                             <div class="practice-related-card">
                                 <div class="practice-related-card-img">
                                     <img src="img/example-socio.jpg" alt="">
-                                    <a href="#" class="practice-related-card-plus">+</a>
+                                    <a href="single-equipe.php" class="practice-related-card-plus">+</a>
                                 </div>
                                 <div class="practice-related-card-info">
-                                    <h4><a href="#">Francisco José Pinheiro Guimarães</a></h4>
+                                    <h4><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h4>
                                     <span>SÓCIO</span>
                                     <div class="practice-related-card-contacts">
                                         <a href="tel:+55"><i class="bi bi-telephone"></i></a>
@@ -144,7 +144,7 @@
                     </div>
                 </div>
                 <div class="col-3 d-none d-lg-flex justify-content-end">
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
+                    <a href="page-listagem-publicacao.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS AS PUBLICAÇÕES <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
@@ -153,7 +153,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -162,7 +164,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -172,7 +174,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -181,7 +185,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -191,7 +195,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -200,7 +206,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -223,7 +229,7 @@
                     </div>
                 </div>
                 <div class="col-3 d-none d-lg-flex justify-content-end">
-                    <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODas as áreas de atuação <i class="bi bi-arrow-up-right"></i></a>
+                    <a href="page-area-de-atuacao.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODas as áreas de atuação <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
             <div class="spacer-30"></div>
@@ -231,7 +237,7 @@
         <div class="container-fluid p-0">
             <div class="row g-0">
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-ambiental.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -243,7 +249,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-bancario.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -255,7 +261,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-contencioso.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right">
@@ -268,7 +274,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-credito.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -287,100 +293,5 @@
             </div>
         </div>
     </section>
-    <section id="awards">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-chambers-brazil-2025.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-chambers-global-2025.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-legal-500.jpg" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-latin-lawyer-250-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-iflr1000-2025.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-leading-firm-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-brazil-legal-summit.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-ttr.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="spacer-50"></div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-legal-500.jpg" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-grr-100.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-lacca-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-analise-advocacia-2026.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-refinitiv.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-lexology-index.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-latin-finance.png" alt=""></a>
-                    </div>
-                    <div class="award-item">
-                        <a href="#"><img src="img/selo-itr-awards-2025.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="useful-links" class="bg-beige">
-        <div class="spacer-60"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-top section-top-green width-25">
-                        <span>LINKS ÚTEIS</span>
-                        <div class="spacer-10"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="spacer-60"></div>
-            <div class="row">
-                <div class="col-12 col-lg-4">
-                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
-                        <img src="img/icon-mail.svg" alt="">
-                        <span>RECEBA NOSSO MAILING</span>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
-                        <img src="img/icon-tel.svg" alt="">
-                        <span>ENTRE EM CONTATO CONOSCO</span>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-4">
-                    <a href="#" class="link-card text-light-green text-hover-white bg-beige bg-hover-light-green">
-                        <img src="img/icon-team.svg" alt="">
-                        <span>VENHA FAZER PARTE DO NOSSO TIME</span>
-                    </a>
-                </div>
-            </div>
-            <div class="spacer-40"></div>
-        </div>
-    </section>
+    <?php include('awards-links.php'); ?>
 <?php require_once 'footer.php'; ?>

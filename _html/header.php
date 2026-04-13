@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="css/thiba.css"/>
     <link rel="stylesheet" href="css/responsive.css"/>
     
+    <link rel="shortcut icon" href="img/favicon.png" />
     <title>.: Pinheiros Guimarães :.</title>
 </head>
 <body>
@@ -33,14 +34,14 @@
             <div class="container">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-lg-auto">
-                        <a href=""><img src="img/logo-pinheiroGui.svg" alt=""></a>
+                        <a href="index.php"><img src="img/logo-pinheiroGui.svg" alt=""></a>
                     </div>
                     <div class="col-lg-6">
                         <nav class="main-nav w-100 justify-content-between">
-                            <a href="#">Escritório</a>
-                            <a href="#">Áreas de Atuação</a>
-                            <a href="#">Profissionais</a>
-                            <a href="#">Publicações</a>
+                            <a href="page-sobre-nos.php">Escritório</a>
+                            <a href="page-area-de-atuacao.php">Áreas de Atuação</a>
+                            <a href="page-equipe-listagem.php">Profissionais</a>
+                            <a href="page-listagem-publicacao.php">Publicações</a>
                         </nav>
                     </div>
                     <div class="col-lg-auto d-flex align-items-center justify-content-end gap-2">
@@ -52,3 +53,38 @@
             </div>
         </div>
     </header>
+    <section id="collapsed-menu">
+        <div class="wrapper-menu">
+            <a href="#" class="close">
+                <i class="bi bi-x-lg"></i>
+            </a>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="page-sobre-nos.php">O Escritório</a>
+                    </li>
+                    <li>
+                        <a href="page-linha-do-tempo.php">Linha do Tempo</a>
+                    </li>
+                    <li>
+                        <a href="page-reconhecimentos.php">Reconhecimentos</a>
+                    </li>
+                    <li>
+                        <a href="page-area-de-atuacao.php">Areas de Atuação</a>
+                    </li>
+                    <li>
+                        <a href="page-equipe-listagem.php">Profissionais</a>
+                    </li>
+                    <li>
+                        <a href="page-listagem-publicacao.php">Publicações</a>
+                    </li>
+                    <li>
+                        <a href="page-carreiras.php">Carreiras</a>
+                    </li>
+                    <li>
+                        <a href="page-contato.php">Contato</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </section>

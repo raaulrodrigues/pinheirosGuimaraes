@@ -79,6 +79,15 @@ $(document).ready(function(){
             }
         ]
     });
+
+    jQuery('#stickyHeader .main-header>div>div>div button.menu-btn').on('click', function(e){
+        e.preventDefault();
+        jQuery('#collapsed-menu').addClass('expand');
+    })
+    jQuery('#collapsed-menu .wrapper-menu .close').on('click', function(e){
+        e.preventDefault();
+        jQuery('#collapsed-menu').removeClass('expand');
+    })
 });
 
 $(window).on('load', function(){
