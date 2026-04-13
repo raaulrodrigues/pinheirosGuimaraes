@@ -70,20 +70,26 @@
     <section id="recognitions" class="bg-beige">
         <div class="container">
             <div class="row">
-                <div class="col">
+                <div class="col-lg-6">
                     <div class="recognitions-left bg-green">
                         <div class="recognitions-left-content">
                             <div class="section-top section-top-white full-width">
                                 <p>Reconhecimentos</p>
                             </div>
                             <div class="recognitions-tagline text-white">
-                                <h2>Excelência <img src="img/icon-pg-white.svg" alt=""> Reconhecimento</h2>
+                                <h2>
+                                    <span>Excelência</span>
+                                    <img src="img/icon-pg-white.svg" alt=""> 
+                                    <span>Reconhecimento</span>
+                                </h2>
                             </div>
                             <div class="recognitions-content text-white">
                                 <p>Ao longo dos anos, Pinheiro Guimarães tem sido considerado um dos líderes no Brasil em suas áreas de atuação, por publicações especializadas como Chambers & Partners, Euromoney/IFLR1000, Legal500, Who's Who Legal, LACCA, Análise Advocacia e Latin Lawyer.</p>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="col-lg-6">
                     <div class="recognitions-right bg-white">
                         <div class="recognitions-right-content">
                             <div class="recognitions-quote text-green">

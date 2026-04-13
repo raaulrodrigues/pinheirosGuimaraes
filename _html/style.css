@@ -998,14 +998,36 @@ em {
     font-size: 12px;
 }
 
-#recognitions {}
+#recognitions {
+    padding-bottom: 200px;
+}
 #recognitions>div {}
-#recognitions>div>div {}
+#recognitions>div>div {
+    margin: 0;
+}
 #recognitions>div>div>div {
     display: flex;
+    padding: 0;
+    position: relative;
+    z-index: 2;
+}
+#recognitions>div>div>div:last-child {
+    transform: translateY(200px);
+    position: relative;
+    z-index: 1;
+}
+#recognitions>div>div>div:last-child::before {
+    content: '';
+    width: 100px;
+    height: 100%;
+    position: absolute;
+    background: #fff;
+    left: 0;
+    top: 0;
+    transform: translateX(-100%);
+    z-index: 1;
 }
 #recognitions>div>div>div .recognitions-left {
-    width: 50%;
     display: flex;
     justify-content: flex-end;
 }
@@ -1028,15 +1050,20 @@ em {
     margin-top: 20px;
 }
 #recognitions>div>div>div .recognitions-left-content .recognitions-tagline h2 {
-    font-size: 32px;
+    font-size: 31px;
     font-weight: 700;
     display: flex;
     align-items: center;
     color: #fff;
+    justify-content: space-between;
 }
 #recognitions>div>div>div .recognitions-left-content .recognitions-tagline h2 img {
-    height: 36px;
+    height: 42px;
     width: auto;
+    display: block;
+    margin: 0 20px;
+}
+#recognitions>div>div>div .recognitions-left-content .recognitions-tagline h2 span {
 }
 #recognitions>div>div>div .recognitions-left-content .recognitions-content {
     margin-top: 20px;
@@ -1046,7 +1073,6 @@ em {
     font-weight: 300;
 }
 #recognitions>div>div>div .recognitions-right {
-    width: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1054,6 +1080,23 @@ em {
 #recognitions>div>div>div .recognitions-right .recognitions-right-content {
     padding: 40px;
     width: 100%;
+    position: relative;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+#recognitions>div>div>div::before {
+    content: '';
+    position: absolute;
+    background: url(img/icon-quote.png?2134);
+    display: block;
+    width: 70px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    right: -38px;
+    bottom: 50px;
+    z-index: 3;
 }
 #recognitions>div>div>div .recognitions-right .recognitions-right-content .recognitions-quote {}
 #recognitions>div>div>div .recognitions-right .recognitions-right-content .recognitions-quote blockquote {
