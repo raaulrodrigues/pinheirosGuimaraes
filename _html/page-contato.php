@@ -1,5 +1,18 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
+    <section id="breadcrumb">
+        <div class="container">
+            <div class="row">
+                <div class="wrapper-breadcrumb">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <span>/</span>
+                        <span class="current">Contato</span>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="default-hero">
         <div style="background-image: url('img/background-contato.jpg');">
             <div class="container">

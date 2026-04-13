@@ -1704,7 +1704,7 @@ em {
 #featured-recognition>div>div {
     position: relative;
 }
-#featured-recognition>div>div:nth-child(2)::before {
+#featured-recognition>div:nth-child(2)>div:first-child::before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
@@ -2098,12 +2098,13 @@ em {
 
 /* Single areas de atuacao */
 
-#member-hero {}#featured-practice {}
+#member-hero {}
+#featured-practice {}
 #featured-practice>div {}
 #featured-practice>div>div {
     position: relative;
 }
-#featured-practice>div>div:nth-child(2)::before {
+#featured-practice>div:nth-child(2)>div:first-child::before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
@@ -2132,18 +2133,6 @@ em {
     flex-direction: column;
     justify-content: center;
 }
-#featured-practice>div>div>div .member-hero-bar .member-hero-back {
-    display: inline-flex;
-    align-items: center;
-    color: #fff;
-    text-decoration: none;
-    font-size: 11px;
-    font-family: 'Merriweather Sans';
-    letter-spacing: 2px;
-    margin-bottom: 20px;
-    transition: 0.2s;
-    border: none;
-}
 #featured-practice>div>div>div .member-hero-bar .member-hero-back:hover {
     border: 1px solid #fff;
     padding: 10px 0 10px 10px;
@@ -2167,20 +2156,21 @@ em {
     display: block;
     margin-bottom: 24px;
 }
-
 #member-hero>div {}
 #member-hero>div>div {
     position: relative;
 }
-#member-hero>div>div:nth-child(2)::before {
-    content: '';
-    width: 99999px;
-    height: calc(100% - 30px);
-    background: #004C42;
-    left: 50%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%) translateX(-50%);
+#featured-practice>div>div>div .member-hero-bar .member-hero-back {
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 11px;
+    font-family: 'Merriweather Sans';
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    transition: 0.2s;
+    border: none;
 }
 #member-hero>div>div>div {
     position: relative
@@ -2389,6 +2379,15 @@ em {
     scrollbar-width: thin;
     scrollbar-color: #004C42 #DAD3C1;
 }
+#practice-content>div>div>div .practice-related-box .practice-related-list-green {
+    display: flex;
+    flex-direction: column;
+    max-height: 520px;
+    overflow-y: auto;
+    padding-right: 16px;
+    scrollbar-width: thin;
+    scrollbar-color: #DAD3C1 #AEAEAE;
+}
 #practice-content>div>div>div .practice-related-box .practice-related-list::-webkit-scrollbar {
     width: 4px;
 }
@@ -2406,6 +2405,26 @@ em {
     padding: 16px 0;
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
+
+#practice-content>div>div>div .practice-related-box .practice-related-list-green::-webkit-scrollbar {
+    width: 4px;
+}
+#practice-content>div>div>div .practice-related-box .practice-related-list-green::-webkit-scrollbar-track {
+    background: #AEAEAE;
+    border-radius: 2px;
+}
+#practice-content>div>div>div .practice-related-box .practice-related-list-green::-webkit-scrollbar-thumb {
+    background: #DAD3C1;
+    border-radius: 2px;
+}
+#practice-content>div>div>div .practice-related-box .practice-related-list-green .practice-related-card {
+    display: flex;
+    align-items: center;
+    padding: 16px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+
 #practice-content>div>div>div .practice-related-box .practice-related-list .practice-related-card:last-child {
     border-bottom: none;
 }

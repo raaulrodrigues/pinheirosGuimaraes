@@ -1,5 +1,18 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
+    <section id="breadcrumb">
+        <div class="container">
+            <div class="row">
+                <div class="wrapper-breadcrumb">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <span>/</span>
+                        <span class="current">Prêmios e Reconhecimentos</span>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="default-hero">
         <div style="background-image: url('img/background-abous-us.jpg');">
             <div class="container">
@@ -49,112 +62,112 @@
             <div class="row g-0">
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-chambers-brazil-2025.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-chambers-global-2025.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-legal-500.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-latin-lawyer-250-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-iflr1000-2025.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-leading-firm-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-brazil-legal-summit.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-legal-500.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-ttr.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-grr-100.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-lacca-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-analise-advocacia-2026.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-refinitiv.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-lexology-index.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-latin-finance.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="award-grid-item">
-                        <a href="#">
+                        <a href="page-reconhecimentos.php">
                             <img src="img/selo-itr-awards-2025.png" alt="">
                         </a>
                     </div>
@@ -178,52 +191,52 @@
             <div class="spacer-30"></div>
             <div class="awards-slider-carousel">
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-chambers-brazil-2025.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-chambers-brazil-2025.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-chambers-global-2025.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-chambers-global-2025.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-legal-500.jpg" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-legal-500.jpg" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-latin-lawyer-250-2026.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-latin-lawyer-250-2026.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-iflr1000-2025.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-iflr1000-2025.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-leading-firm-2026.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-leading-firm-2026.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-brazil-legal-summit.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-brazil-legal-summit.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-ttr.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-ttr.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-legal-500.jpg" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-legal-500.jpg" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-grr-100.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-grr-100.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-lacca-2026.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-lacca-2026.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-analise-advocacia-2026.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-analise-advocacia-2026.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-refinitiv.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-refinitiv.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-lexology-index.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-lexology-index.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-latin-finance.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-latin-finance.png" alt=""></a>
                 </div>
                 <div class="award-item">
-                    <a href="#"><img src="img/selo-itr-awards-2025.png" alt=""></a>
+                    <a href="page-reconhecimentos.php"><img src="img/selo-itr-awards-2025.png" alt=""></a>
                 </div>
             </div>
             <div class="col-12 d-flex justify-content-start align-items-center mt-4">

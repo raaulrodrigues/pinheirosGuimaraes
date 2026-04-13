@@ -1,0 +1,20 @@
+/* Breadcrumb */
+
+#breadcrumb {
+    padding: 10px 0
+}
+#breadcrumb>div {
+}
+#breadcrumb>div>div {
+}
+#breadcrumb>div>div .wrapper-breadcrumb {font-family: 'Merriweather Sans';font-size: 14px;color: #01655C;}
+#breadcrumb>div>div .wrapper-breadcrumb ul {display: flex;align-items: center;justify-content: flex-start;}
+#breadcrumb>div>div .wrapper-breadcrumb ul li {
+}
+#breadcrumb>div>div .wrapper-breadcrumb ul li a {
+    color: #01655C;
+}
+#breadcrumb>div>div .wrapper-breadcrumb ul span {display: inline-block;margin: 0 5px;}
+#breadcrumb>div>div .wrapper-breadcrumb ul span.current {margin: 0;}
+
+/* Breadcrumb */
