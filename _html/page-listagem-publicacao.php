@@ -1,5 +1,21 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
+    <section id="default-hero">
+        <div style="background-image: url('img/background-abous-us.jpg');">
+            <div class="container">
+                <div class="row">
+                    <div class="col-7">
+                        <div class="section-top without-line text-white">
+                            <p>PUBLICAÇÕES</p>
+                        </div>
+                        <div class="default-tagline title-white">
+                            <h1>Fique por dentro das nossas publicações e eventos</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="publications-filter" class="bg-white">
         <div class="spacer-40"></div>
         <div class="container">
@@ -47,7 +63,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-auto ms-md-auto">
-                    <button class="main-btn bg-green bg-hover-dark-green text-white">BUSCAR <i class="bi bi-search"></i></button>
+                    <button class="main-btn bg-light-green bg-hover-dark-green text-white">BUSCAR <i class="bi bi-search"></i></button>
                 </div>
             </div>
             <div class="spacer-40"></div>
@@ -76,8 +92,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top section-top-green width-30">
                         <span>ARTIGOS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>
@@ -212,8 +229,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-white text-white">
+                    <div class="section-top section-top section-top-white width-30">
                         <span>SÉRIES PG</span>
+                        <div class="spacer-10"></div>
+                    </div>
+                    <div class="section-top-white text-white">
+                        <span></span>
                     </div>
                 </div>
             </div>
@@ -349,8 +370,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top section-top-green width-30">
                         <span>PG PODCAST</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>
@@ -431,8 +453,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-white text-white">
+                    <div class="section-top section-top section-top-white width-30">
                         <span>YOUTUBE</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>

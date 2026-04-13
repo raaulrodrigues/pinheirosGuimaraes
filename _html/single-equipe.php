@@ -222,8 +222,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top-green width-25">
                         <span>LINKS ÚTEIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>

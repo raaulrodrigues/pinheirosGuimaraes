@@ -11,7 +11,7 @@
                     </div>
                     <div class="green-bar-infos title-white text-white">
                         <p>20 de fevereiro de 2026</p>
-                        <span>Francisco José Pinheiro Guimarães</span>
+                        <span>categoria</span>
                         <h1>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h1>
                         <div class="big-badge-category">
                             <a href="#" class="main-btn bg-light-green text-white">Área de Atuação Relacionada</a>

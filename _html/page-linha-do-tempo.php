@@ -1,12 +1,12 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
     <section id="default-hero">
-        <div style="background-image: url('img/background-abous-us.jpg');">
+        <div style="background-image: url('img/background-linha-do-tempo.jpg');">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <div class="section-top">
-                            <a href="#"><p> LINHA DO TEMPO </p></a>
+                        <div class="section-top without-line text-white">
+                            <p>LINHA DO TEMPO</p>
                         </div>
                         <div class="default-tagline title-white">
                             <h1>100 anos de história </h1>
@@ -64,7 +64,7 @@
                     <img src="img/placeholder-our-history.jpg" alt="">
                 </div>
                 <div class="history-text">
-                    <div class="history-text-inner">
+                    <div class="history-text-inner title-light-green text-light-green">
                         <h3>Nasce a sociedade de advogados</h3>
                         <div class="spacer-20"></div>
                         <p>entre Plínio Pinheiro Guimarães e José de Miranda Valverde. Fluente em inglês, francês e alemão, Plínio logo atraí grandes clientes estrangeiros como Citibank, Bayer e Atlantic Petróleo.</p>
@@ -140,8 +140,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top-green width-25">
                         <span>LINKS ÚTEIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>

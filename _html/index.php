@@ -232,19 +232,20 @@
         <div class="spacer-30"></div>
         <div class="container">
             <div class="row align-items-center">
-                <div class="section-top">
-                    <div class="section-top-green text-green">
+                <div class="col-12">
+                    <div class="section-top section-top-green width-25">
                         <span>ÁREAS DE ATUAÇÃO</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
                 <div class="spacer-30"></div>
-                <div class="col-12">
+                <div class="col-4">
                     <div class="areas-grid-title text-green">
                         <h2>Lorem ipsum dolor sit amet consectetur adipiscing</h2>
                     </div>
                 </div>
             </div>
-            <div class="spacer-30"></div>
+            <div class="spacer-50"></div>
         </div>
         <div class="container-fluid p-0">
             <div class="row g-0">
@@ -305,10 +306,9 @@
         <div class="container">
             <div class="row row align-items-center">
                 <div class="col-12">
-                    <div class="section-top">
-                        <div class="section-top-green text-green">
-                            <span>PROFISSIONAIS</span>
-                        </div>
+                    <div class="section-top section-top section-top-green width-25">
+                        <span>PROFISSIONAIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
                 <div class="col-6 text-green">
@@ -483,8 +483,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top-green width-25">
                         <span>LINKS ÚTEIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>

@@ -1,5 +1,21 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
+    <section id="default-hero">
+        <div style="background-image: url('img/background-linha-do-tempo.jpg');">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section-top without-line text-white">
+                            <p>Profissionais</p>
+                        </div>
+                        <div class="default-tagline title-white">
+                            <h1>Qualificação e Experiência </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="our-team" class="bg-beige">
         <div class="spacer-60"></div>
         <div class="container">
@@ -394,8 +410,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-top-green text-green">
+                    <div class="section-top section-top-green width-25">
                         <span>LINKS ÚTEIS</span>
+                        <div class="spacer-10"></div>
                     </div>
                 </div>
             </div>
