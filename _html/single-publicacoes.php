@@ -48,6 +48,7 @@
                         </div>
                     </div>
                 </div>
+                <?php /*
                 <div class="col-12 col-lg-4 offset-lg-2 bg-green">
                     <div class="practice-related-box">
                         <div class="spacer-30"></div>
@@ -73,6 +74,7 @@
                         </div>
                     </div>
                 </div>
+                */ ?>
                 <div class="col-12 col-lg-4 offset-lg-2 bg-white">
                     <div class="practice-related-box">
                         <div class="spacer-30"></div>
@@ -181,7 +183,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -190,7 +194,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -200,7 +204,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -209,7 +215,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -219,7 +225,9 @@
                     <div class="wrapper-card-publication">
                         <div class="publication-card-img">
                             <span class="publication-badge">CATEGORIA</span>
-                            <a href="#"><img src="img/placeholder-publications.jpg" alt=""></a>
+                            <a href="single-publicacoes.php">
+                                <img src="img/placeholder-publications.jpg" alt="">
+                            </a>
                         </div>
                         <div class="publication-card-content">
                             <div class="publication-card-body title-green">
@@ -228,7 +236,7 @@
                                     <span>12 DE DEZEMBRO DE 2025</span>
                                 </div>
                                 <h5>Fraude à execução e fraude contra credores: distinções, fundamentos e implicações práticas</h5>
-                                <a href="#" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
+                                <a href="single-publicacoes.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">LER MAIS <i class="bi bi-arrow-up-right"></i></a>
                                 <div class="spacer-10"></div>
                             </div>
                         </div>
@@ -259,7 +267,7 @@
         <div class="container-fluid p-0">
             <div class="row g-0">
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-ambiental.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -271,7 +279,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-bancario.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -283,7 +291,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-contencioso.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right">
@@ -296,7 +304,7 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
-                    <a href="#" class="area-card">
+                    <a href="single-areas-de-atuacao.php" class="area-card">
                         <div class="area-card-inner" style="background-image: url('img/background-credito.jpg');">
                             <div class="area-card-arrow">
                                 <i class="bi bi-arrow-up-right"></i>
