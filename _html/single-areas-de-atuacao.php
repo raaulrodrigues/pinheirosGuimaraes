@@ -1,5 +1,31 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
+    <section id="featured-practice">
+        <div class="spacer-40"></div>
+        <div class="container">
+            <div class="row justify-content-end align-items-center">
+                <div class="col-12 col-lg-8 bg-green">
+                    <div class="member-hero-bar">
+                        <div class="spacer-20"></div>
+                        <a href="#" class="member-hero-back">
+                            <i class="bi bi-arrow-up-left"></i> voltar para áreas de atuação
+                        </a>
+                        <div class="member-hero-infos title-white text-white">
+                            <h1>Ambiental e Mudanças Climáticas</h1>
+                            <span>áreas de atuação</span>
+                        </div>
+                    </div>
+                    <div class="spacer-20"></div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="member-hero-image">
+                        <img src="img/background-ambiental.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="spacer-40"></div>
+        </div>
+    </section>
     <section id="practice-content" class="bg-beige">
         <div class="spacer-60"></div>
         <div class="container">

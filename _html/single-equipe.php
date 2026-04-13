@@ -3,14 +3,14 @@
     <section id="member-hero" class="bg-beige">
         <div class="spacer-40"></div>
         <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-4">
+            <div class="row justify-content-end align-items-center">
+                <div class="col-12 col-lg-4">
                     <div class="member-hero-image">
                         <img src="img/example-socio.jpg" alt="">
                     </div>
                 </div>
-                <div class="col-12 col-md-8">
-                    <div class="member-hero-bar bg-green">
+                <div class="col-12 col-lg-8 bg-green">
+                    <div class="member-hero-bar">
                         <div class="spacer-20"></div>
                         <a href="#" class="member-hero-back">
                             <i class="bi bi-arrow-up-left"></i> VOLTAR PARA PROFISSIONAIS
@@ -41,13 +41,13 @@
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-lg-6">
                     <div class="member-details-block title-green text-dark-green">
                         <h1>Formação Acadêmica</h1>
                         <p>Faculdade de Direito da Universidade Candido Mendes, Rio de Janeiro, formado em 1992; Mestrado em Direito pela Columbia Law School, Nova York, em 1996. Associado estrangeiro em Shearman & Sterling LLP, Nova York, 1993-1995.</p>
                     </div>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-lg-6">
                     <div class="member-details-block title-green">
                         <h1>Membro</h1>
                         <p>Ordem dos Advogados do Brasil e Ordem dos Advogados de Nova York.</p>
