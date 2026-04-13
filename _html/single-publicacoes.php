@@ -18,7 +18,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4">
+                <div class="col-12 col-lg-3">
                     <div class="publication-hero-image">
                         <img src="img/example-socio.jpg" alt="">
                     </div>
