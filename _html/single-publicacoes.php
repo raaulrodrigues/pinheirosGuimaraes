@@ -1,5 +1,20 @@
 <?php require_once 'header.php'; ?>
     <div class="dynamicSpacer"></div>
+    <section id="breadcrumb">
+        <div class="container">
+            <div class="row">
+                <div class="wrapper-breadcrumb">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <span>/</span>
+                        <li><a href="page-listagem-publicacao.php">Publicações</a></li>
+                        <span>/</span>
+                        <span class="current">Título da Publicação</span>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="publication-hero" class="bg-beige">
         <div class="spacer-40"></div>
         <div class="container">

@@ -456,11 +456,32 @@ em {
 
 /* Default */
 
+/* Breadcrumb */
+
+#breadcrumb {
+    padding: 10px 0
+}
+#breadcrumb>div {
+}
+#breadcrumb>div>div {
+}
+#breadcrumb>div>div .wrapper-breadcrumb {font-family: 'Merriweather Sans';font-size: 14px;color: #01655C;}
+#breadcrumb>div>div .wrapper-breadcrumb ul {display: flex;align-items: center;justify-content: flex-start;}
+#breadcrumb>div>div .wrapper-breadcrumb ul li {
+}
+#breadcrumb>div>div .wrapper-breadcrumb ul li a {
+    color: #01655C;
+}
+#breadcrumb>div>div .wrapper-breadcrumb ul span {display: inline-block;margin: 0 5px;}
+#breadcrumb>div>div .wrapper-breadcrumb ul span.current {margin: 0;}
+
+/* Breadcrumb */
+
 /* Slick Custom */
 
 .main-slick-dots {
 }
-.main-slick-dots .slick-dots {display: flex;margin-top: 10px;gap: 10px;}
+.main-slick-dots .slick-dots {display: flex;margin-top: 20px;gap: 10px;flex-wrap: wrap;justify-content: center;}
 .main-slick-dots .slick-dots li {
 }
 .main-slick-dots .slick-dots li button {padding: 0;background: none;border: none;text-indent: -999999px;display: block;width: 46px;height: 3px;}
@@ -859,8 +880,6 @@ em {
     border-bottom-color: #01655C;
 }
 #stickyHeader .main-header>div>div>div button {
-    width: 38px;
-    height: 38px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -869,6 +888,7 @@ em {
     color: #01655C;
     cursor: pointer;
     transition: background 0.2s, color 0.2s, border-color 0.2s;
+    padding: 5px 5px;
 }
 #stickyHeader .main-header>div>div>div button:hover {
     background: #01655C;
@@ -876,7 +896,6 @@ em {
     border-color: #01655C;
 }
 #stickyHeader .main-header>div>div>div button.lang-btn {
-    width: auto;
     font-size: 14px;
     font-weight: 300;
 }
@@ -1231,6 +1250,7 @@ em {
     font-size: 12px;
 }
 
+
 #professionals {}
 #professionals>div {}
 #professionals>div>div {}
@@ -1293,37 +1313,52 @@ em {
 #awards>div {}
 #awards>div>div {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 #awards>div>div>div {
     display: flex;
     justify-content: center;
 }
-#awards>div>div>div .award-item {
-    width: 140px;
-    margin: 0 20px;
+#awards>div>div>div.award-item {
+    width: 125px;
+    margin: 0 15px 30px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
+    max-width: 100%;
 }
-#awards>div>div>div .award-item a {
+#awards>div>div>div.award-item a {
     display: block;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 70px;
 }
-#awards>div>div>div .award-item a img {
-    max-height: 70px;
-    max-width: 100%;
+#awards>div>div>div.award-item a img {
+    height: 70px;
     width: auto;
     transition: .3s;
+    object-fit: contain;
 }
-#awards>div>div>div .award-item a:hover {}
-#awards>div>div>div .award-item a:hover img {
+#awards>div>div>div.award-item a:hover {}
+#awards>div>div>div.award-item a:hover img {
     transform: scale(1.3);
 }
+#awards .slider-recognition-mobile {
+    display: block;
+}
+#awards .slider-recognition-mobile>div {
+    display: block;
+}
+#awards .slider-recognition-mobile>div>div {
+    display: block;
+}
+#awards .slider-recognition-mobile>div>div>.award-item {
+    display: block;
+}
+#awards .slider-recognition-mobile>div>div>.award-item a {display: flex;align-items: center;justify-content: center;}
+#awards .slider-recognition-mobile>div>div>.award-item a img {display: block;width: 90%;object-fit: contain;height: 125px;}
 
 #useful-links {}
 #useful-links>div {}

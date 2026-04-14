@@ -16,6 +16,14 @@ $(document).ready(function(){
         autoPlay: true,
         appendArrows: $('.recognitions-right .append-arrows')
     });
+    $('.slider-recognition-mobile').slick({
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        arrows: false,
+        dots: true,
+        infinite: true,
+        autoPlay: true,
+    });
     $('.awards-slider-carousel').slick({
         slidesToShow: 8,
         slidesToScroll: 4,

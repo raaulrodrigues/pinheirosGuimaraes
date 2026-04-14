@@ -10,7 +10,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css"/>
-    <link rel="stylesheet" href="thiba.css"/>
     <link rel="stylesheet" href="css/responsive.css"/>
     
     <link rel="shortcut icon" href="img/favicon.png" />
@@ -21,11 +20,12 @@
         <div class="top-header bg-light-green">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-6 text-white">
+                    <div class="col-8 col-md-6 text-white d-flex justify-content-start">
                         <p>Você está no escritório do: <span>RIO DE JANEIRO</span> </p>
                     </div>
-                    <div class="col-6 d-flex justify-content-end">
-                        <a href="#" class="stroke-btn text-white bg-hover-white text-hover-green">mudar de escritório<i class="bi bi-arrow-up-right"></i></a>
+                    <div class="col-4 col-md-6 d-flex justify-content-end">
+                        <a href="#" class="stroke-btn text-white bg-hover-white text-hover-green d-none d-lg-block">mudar de escritório<i class="bi bi-arrow-up-right"></i></a>
+                        <a href="#" class="stroke-btn text-white bg-hover-white text-hover-green d-block d-lg-none">mudar <i class="bi bi-arrow-up-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -33,10 +33,10 @@
         <div class="main-header bg-beige">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
-                    <div class="col-lg-auto">
+                    <div class="col-lg-auto col-6">
                         <a href="index.php"><img src="img/logo-pinheiroGui.svg" alt=""></a>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 d-none d-lg-block">
                         <nav class="main-nav w-100 justify-content-between">
                             <a href="page-sobre-nos.php">Escritório</a>
                             <a href="page-area-de-atuacao.php">Áreas de Atuação</a>
@@ -44,9 +44,9 @@
                             <a href="page-listagem-publicacao.php">Publicações</a>
                         </nav>
                     </div>
-                    <div class="col-lg-auto d-flex align-items-center justify-content-end gap-2">
+                    <div class="col-lg-auto col-6 d-flex align-items-center justify-content-end gap-2">
                         <button class="icon-btn"><i class="bi bi-search"></i></button>
-                        <button class="lang-btn"><i class="bi bi-globe2"></i> PT <i class="bi bi-chevron-down"></i></button>
+                        <button class="d-none d-md-block lang-btn"><i class="bi bi-globe2"></i> PT <i class="bi bi-chevron-down"></i></button>
                         <button class="icon-btn menu-btn"><i class="bi bi-list"></i></button>
                     </div>
                 </div>
@@ -83,6 +83,12 @@
                     </li>
                     <li>
                         <a href="page-contato.php">Contato</a>
+                    </li>
+                    <li class="d-flex d-md-none justify-content-center">
+                        <button class="lang-btn"><i class="bi bi-globe2"></i> PT <i class="bi bi-chevron-down"></i></button>
+                    </li>
+                    <li class="d-flex d-md-none justify-content-center">
+                        <a href="#" class="stroke-btn text-white bg-hover-white text-hover-green">mudar de escritório<i class="bi bi-arrow-up-right"></i></a>
                     </li>
                 </ul>
             </nav>

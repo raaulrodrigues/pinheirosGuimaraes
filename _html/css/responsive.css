@@ -125,4 +125,54 @@
         width: 32px !important;
         height: 32px !important;
     }
+    #page-hero .slide>div>div>div .featured-hero-content .hero-text p {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    #collapsed-menu .wrapper-menu nav ul {
+        text-align: center;
+    }
+    #stickyHeader .top-header>div>div>div p {
+        font-size: 12px;
+    }
+    #collapsed-menu .wrapper-menu nav {
+        padding-left: 0px;
+        justify-content: center;
+    }
+    #collapsed-menu .wrapper-menu nav ul li button.lang-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: transparent;
+        border: 1px solid #fff;
+        color: #fff;
+        cursor: pointer;
+        transition: background 0.2s, color 0.2s, border-color 0.2s;
+        padding: 5px 5px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+    #collapsed-menu .wrapper-menu nav ul li button.lang-btn i {
+        font-size: 16px;
+        margin: 0 5px 0 5px;
+    }
+    #collapsed-menu .wrapper-menu nav ul li .stroke-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background: transparent;
+        border: 1px solid #fff;
+        color: #fff;
+        cursor: pointer;
+        transition: background 0.2s, color 0.2s, border-color 0.2s;
+        padding: 5px 20px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+    #collapsed-menu .wrapper-menu nav ul li .stroke-btn i {
+        margin-left: 10px;
+    }
+    .main-slick-dots .slick-dots li button {
+        width: 34px;
+    }
 }
