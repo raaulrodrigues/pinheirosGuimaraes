@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-Black.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-Black.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-Black.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-Black.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-Black.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Black.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-Black.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-Black.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-BlackItalic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-BlackItalic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-BlackItalic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-BlackItalic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-BlackItalic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-BlackItalic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-Bold.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-Bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-Bold.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-Bold.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-Bold.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Bold.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-Bold.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-Bold.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-ExtraBold.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-ExtraBold.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-ExtraBold.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-ExtraBold.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-ExtraBold.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-ExtraBold.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-ExtraBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-BoldItalic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-BoldItalic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-BoldItalic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-BoldItalic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-BoldItalic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-BoldItalic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-BoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-ExtraBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -72,11 +72,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-Italic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-Italic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-Italic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-Italic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-Italic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Italic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-Italic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-Italic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -84,11 +84,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-Light.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-Light.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-Light.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-Light.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Light.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-Light.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-Light.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-Light.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -96,11 +96,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-LightItalic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-LightItalic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-LightItalic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-LightItalic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-LightItalic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-LightItalic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-LightItalic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-LightItalic.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -108,11 +108,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-Medium.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-Medium.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-Medium.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-Medium.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Medium.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-Medium.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-Medium.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-Medium.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -120,11 +120,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-MediumItalic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-MediumItalic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-MediumItalic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-MediumItalic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-MediumItalic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-MediumItalic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-MediumItalic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
     font-display: swap;
@@ -132,11 +132,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-Regular.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-Regular.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-Regular.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-Regular.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Regular.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-Regular.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-Regular.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -144,11 +144,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-SemiBold.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-SemiBold.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-SemiBold.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-SemiBold.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-SemiBold.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-SemiBold.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-SemiBold.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-SemiBold.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -156,11 +156,11 @@
 
 @font-face {
     font-family: 'Merriweather SemiCondensed';
-    src: url('fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.eot');
-    src: url('fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.woff2') format('woff2'),
-        url('fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.woff') format('woff'),
-        url('fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.ttf') format('truetype');
+    src: url('../fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.eot');
+    src: url('../fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.woff') format('woff'),
+        url('../fonts/Merriweather120ptSemiCondensed-SemiBoldItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;

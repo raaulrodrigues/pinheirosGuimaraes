@@ -1041,11 +1041,12 @@ em {
     font-weight: 700;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 #about>div>div>div .about-tagline h2 img {
-    height: 40px;
+    height: 59px;
     width: auto;
-    margin: 0 40px;
+    margin: 0 21px;
 }
 #about>div>div>div h3 {
     font-size: 28px;
@@ -1116,10 +1117,10 @@ em {
     display: flex;
     align-items: center;
     color: #fff;
-    justify-content: space-between;
+    justify-content: center;
 }
 #recognitions>div>div>div .recognitions-left-content .recognitions-tagline h2 img {
-    height: 42px;
+    height: 60px;
     width: auto;
     display: block;
     margin: 0 20px;
