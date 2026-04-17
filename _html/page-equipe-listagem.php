@@ -70,14 +70,14 @@
             <div class="row">
                 <div class="col-12">
                     <div class="our-team-alphabet">
-                        <span>A</span><span>B</span><span>C</span><span>D</span>
-                        <span>E</span><span>F</span><span>G</span><span>H</span>
-                        <span>I</span><span>J</span><span>K</span><span>L</span>
-                        <span>M</span><span>N</span><span>O</span><span>P</span>
-                        <span>Q</span><span>R</span><span>S</span><span>T</span>
-                        <span>U</span><span>V</span><span>W</span><span>X</span>
+                        <span class="mb-lg-0 mb-4">A</span><span class="mb-lg-0 mb-4">B</span><span class="mb-lg-0 mb-4">C</span><span class="mb-lg-0 mb-4">D</span>
+                        <span class="mb-lg-0 mb-4">E</span><span class="mb-lg-0 mb-4">F</span><span class="mb-lg-0 mb-4">G</span><span class="mb-lg-0 mb-4">H</span>
+                        <span class="mb-lg-0 mb-4">I</span><span class="mb-lg-0 mb-4">J</span><span class="mb-lg-0 mb-4">K</span><span class="mb-lg-0 mb-4">L</span>
+                        <span class="mb-lg-0 mb-4">M</span><span class="mb-lg-0 mb-4">N</span><span class="mb-lg-0 mb-4">O</span><span class="mb-lg-0 mb-4">P</span>
+                        <span class="mb-lg-0 mb-4">Q</span><span class="mb-lg-0 mb-4">R</span><span class="mb-lg-0 mb-4">S</span><span class="mb-lg-0 mb-4">T</span>
+                        <span class="mb-lg-0 mb-4">U</span><span class="mb-lg-0 mb-4">V</span><span class="mb-lg-0 mb-4">W</span><span>X</span>
                         <span>Y</span><span>Z</span>
-                    </div>
+                  </div>
                 </div>
             </div>
             <div class="row">

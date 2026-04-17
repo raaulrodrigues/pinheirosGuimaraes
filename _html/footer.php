@@ -2,7 +2,7 @@
         <div class="main-footer">
             <div class="container">
                 <div class="row justify-content-between align-items-start">
-                    <div class="col-12 col-lg-3 text-center d-flex flex-column align-items-center">
+                    <div class="col-12 col-lg-12 text-center d-flex flex-column align-items-center">
                         <img src="img/logo-pinheiroGui-white.svg" alt="" class="mb-3">
                     </div>
                     <div class="col-12 d-flex justify-content-center mt-2 mt-lg-0">
@@ -10,9 +10,7 @@
                         <a href="#" class="social-btn text-white mx-2"><i class="bi bi-linkedin"></i></a>
                     </div>
                 </div>
-                
                 <div class="row justify-content-between">
-                    
                     <div class="col-12 col-lg-3 text-white text-center text-lg-start">
                         <div>
                             <h6>Rio de Janeiro</h6>
@@ -24,8 +22,7 @@
                                 <a href="mailto:pgrj@pinheiroguimaraes.com.br" class="contact-link text-white"><i class="bi bi-envelope"></i> pgrj@pinheiroguimaraes.com.br</a>
                             </div>
                         </div>
-                    </div>
-                    
+                    </div>                   
                     <div class="col-12 col-lg-3 d-flex flex-column text-white text-center text-lg-start">
                         <div>
                             <h6>São Paulo</h6>
@@ -37,8 +34,7 @@
                                 <a href="mailto:pgsp@pinheiroguimaraes.com.br" class="contact-link text-white"><i class="bi bi-envelope"></i> pgsp@pinheiroguimaraes.com.br</a>
                             </div>
                         </div>
-                    </div>
-                    
+                    </div>                    
                     <div class="col-12 col-lg-3 d-flex flex-column justify-content-center align-items-center align-items-lg-end text-white text-center text-lg-start">
                         <div>
                             <h6>Selos de certificação</h6>
@@ -52,7 +48,6 @@
                             </div>
                         </div>
                     </div>
-                    
                 </div>
             </div>
         </div>

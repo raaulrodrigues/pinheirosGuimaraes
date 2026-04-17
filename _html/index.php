@@ -79,7 +79,7 @@
                     </div>
                 </div>
             </div>
-            <div class="spacer-60"></div>
+            <div class="spacer-80"></div>
         </div>
     </section>
     <section id="recognitions" class="bg-beige">
@@ -120,6 +120,7 @@
                     </div>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
     </section>
     <section id="awards-grid" class="bg-beige">
@@ -245,7 +246,7 @@
                     <a href="page-reconhecimento-listagem.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige">VER TODOS <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
-            <div class="spacer-60"></div>
+            <div class="spacer-70"></div>
         </div>
     </section>
     <section id="areas-grid" class="bg-beige">
@@ -325,7 +326,7 @@
                     <a href="page-area-de-atuacao.php" class="main-btn bg-light-green bg-hover-dark-green text-white text-hover-beige"> VER TODAS AS ÁREAS <i class="bi bi-arrow-up-right"></i></a>
                 </div>
             </div>
-            <div class="spacer-30"></div>
+            <div class="spacer-60"></div>
         </div>
     </section>
     <section id="professionals">

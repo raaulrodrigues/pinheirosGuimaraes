@@ -512,7 +512,7 @@ em {
     padding: 12px 11px;
     font-size: 16px;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     font-family: 'Merriweather SemiCondensed';
     background: none;
     border: none;
@@ -1376,7 +1376,6 @@ em {
     border: 3px solid #01655C;
     border-radius: 12px;
     padding: 0px 40px;
-    margin-bottom: 20px;
     height: 320px;
     transition: background 0.2s, color 0.2s;
 }
@@ -2039,7 +2038,7 @@ em {
     border: none;
     padding: 12px 22px;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -2057,6 +2056,9 @@ em {
 }
 #our-team>div>div>div .our-team-alphabet {
     margin: 0px 0 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 #our-team>div>div>div .our-team-alphabet span {
     font-size: 18px;
@@ -2343,7 +2345,7 @@ em {
     color: #fff;
     padding: 8px 16px;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     text-decoration: none;
     transition: 0.3s;
     margin: 20px 30px 0 0;
