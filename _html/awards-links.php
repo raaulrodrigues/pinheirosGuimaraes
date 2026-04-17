@@ -1,6 +1,6 @@
 <section id="awards">
         <div class="container">
-            <div class="row d-none d-lg-block">
+            <div class="row d-none d-lg-flex">
                 <div class="col-auto award-item">
                     <a href="page-reconhecimento.php">
                         <img class="img-fluid" src="img/selo-chambers-brazil-2025.png" alt="">
