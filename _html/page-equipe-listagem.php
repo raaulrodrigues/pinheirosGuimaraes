@@ -63,8 +63,8 @@
                         <i class="bi bi-chevron-down"></i>
                     </div>
                 </div>
-                <div class="col-12 col-md-auto">
-                    <button type="submit" class="our-team-filter-btn">BUSCAR <i class="bi bi-search"></i></button>
+                <div class="col-12 col-md-2">
+                    <button type="submit" class="our-team-filter-btn w-100 text-center">BUSCAR <i class="bi bi-search"></i></button>
                 </div>
             </div>
             <div class="row">
@@ -89,11 +89,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -106,11 +108,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -123,11 +127,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -140,11 +146,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -157,11 +165,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -174,11 +184,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -191,11 +203,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -208,11 +222,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -225,11 +241,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -242,11 +260,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -259,11 +279,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -276,11 +298,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -293,11 +317,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -310,11 +336,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -327,11 +355,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -344,11 +374,13 @@
                         </div>
                         <div class="our-team-card-info">
                             <h3><a href="single-equipe.php">Francisco José Pinheiro Guimarães</a></h3>
-                            <span class="our-team-card-role">SÓCIO</span>
-                            <div class="our-team-card-contacts">
-                                <a href="tel:+55"><i class="bi bi-telephone"></i></a>
-                                <a href="mailto:"><i class="bi bi-envelope"></i></a>
-                                <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <div class="d-flex justify-content-between">
+                                <span class="our-team-card-role">SÓCIO</span>
+                                <div class="our-team-card-contacts d-flex justify-content-end">
+                                    <a href="tel:+55"><i class="bi bi-telephone"></i></a>
+                                    <a href="mailto:"><i class="bi bi-envelope"></i></a>
+                                    <a href="#" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>

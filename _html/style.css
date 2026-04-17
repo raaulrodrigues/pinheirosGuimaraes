@@ -143,7 +143,7 @@ body {
     width: 100%;
     position: relative;
     height: 100%;
-    font-family: "Merriweather";
+    font-family: 'Merriweather SemiCondensed';
 }
 
 section {
@@ -350,7 +350,7 @@ em {
     margin-bottom: 0;
 }
 .main-title {
-    font-family: "Merriweather";
+    font-family: 'Merriweather SemiCondensed';
     font-size: 22px;
     position: relative;
     font-weight: 700;
@@ -381,10 +381,10 @@ em {
     margin-bottom: 10px;
 }
 .font-family-merriweather {
-    font-family: "Merriweather";
+    font-family: 'Merriweather SemiCondensed';
 }
 .font-family-merriweather-sans {
-    font-family: "Merriweather Sans";
+    font-family: 'Merriweather SemiCondensed';
 }
 
 .parallax {background-size: cover;background-position: center;background-attachment: fixed;height: 40vh; min-height: 550px;}
@@ -396,7 +396,7 @@ em {
     position: relative;
     font-size: 14px;
     text-transform: uppercase;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     padding-bottom: 10px !important;
     margin-bottom: 10px !important;
 }
@@ -464,7 +464,7 @@ em {
 }
 #breadcrumb>div>div {
 }
-#breadcrumb>div>div .wrapper-breadcrumb {font-family: 'Merriweather Sans';font-size: 14px;color: #01655C;}
+#breadcrumb>div>div .wrapper-breadcrumb {font-family: 'Merriweather SemiCondensed';font-size: 14px;color: #01655C;}
 #breadcrumb>div>div .wrapper-breadcrumb ul {display: flex;align-items: center;justify-content: flex-start;}
 #breadcrumb>div>div .wrapper-breadcrumb ul li {
 }
@@ -513,7 +513,7 @@ em {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     background: none;
     border: none;
     display: inline-block;
@@ -526,7 +526,7 @@ em {
     display: flex;
     justify-content: center;
     padding: 12px 0;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-size: 12px;
     font-weight: 300;
     text-transform: uppercase;
@@ -745,7 +745,7 @@ em {
 }
 .wrapper-cards-publications .wrapper-card-publication .publication-card-content .publication-card-body .publication-card-meta span {
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     text-transform: uppercase;
 }
 .wrapper-cards-publications .wrapper-card-publication .publication-card-content .publication-card-body h5 {
@@ -824,7 +824,7 @@ em {
 }
 #stickyHeader .top-header>div>div>div p {
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-size: 14px;
 }
 #stickyHeader .top-header>div>div>div p span{
@@ -835,7 +835,7 @@ em {
 }
 #stickyHeader .top-header>div>div>div a {
     padding: 10px 15px 10px 15px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-size: 11px;
     letter-spacing: 1px;
     display: flex;
@@ -872,7 +872,7 @@ em {
     align-items: center;
     border-bottom: 2px solid transparent;
     transition: color 0.2s, border-color 0.2s;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #stickyHeader .main-header>div>div>div .main-nav a:hover {
     color: #01655C;
@@ -910,8 +910,8 @@ em {
 }
 #collapsed-menu .wrapper-menu nav {padding-left: 80px;height: 100%;display: flex;align-items: center;}
 #collapsed-menu .wrapper-menu nav ul {height: 100%;display: flex;flex-direction: column;justify-content: center;}
-#collapsed-menu .wrapper-menu nav ul li {margin: 19px 0;}
-#collapsed-menu .wrapper-menu nav ul li a {font-family: 'Merriweather';color: #EEEBE4;text-decoration: none;font-size: 30px;}
+#collapsed-menu .wrapper-menu nav ul li {margin: 10px 0;}
+#collapsed-menu .wrapper-menu nav ul li a {font-family: 'Merriweather';color: #EEEBE4;text-decoration: none;font-size: 20px;}
 
 /* Header */
 
@@ -1001,7 +1001,7 @@ em {
     color: #fff;
     margin: 0;
     opacity: 1;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #page-hero .wrapper-featured-post>div>div>div>div>div .category-content {
     margin-bottom: 24px;
@@ -1372,9 +1372,9 @@ em {
     text-decoration: none;
     border: 3px solid #01655C;
     border-radius: 12px;
-    padding: 70px 86px;
+    padding: 0px 40px;
     margin-bottom: 20px;
-    height: 300px;
+    height: 320px;
     transition: background 0.2s, color 0.2s;
 }
 #useful-links>div>div>div .link-card img {
@@ -1400,16 +1400,32 @@ em {
 
 /* About us */
 
-#default-hero {}
+#default-hero {
+    position: relative;
+}
+#default-hero>div::before {
+    content: '';
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    top: 0;
+    background: #004C42;
+    background: linear-gradient(86deg,rgba(0, 76, 66, 1) 0%, rgba(0, 76, 66, 0) 100%);
+    mix-blend-mode: multiply;
+}
 #default-hero>div {
     background-size: cover;
     background-position: center center;
-    min-height: 50vh;
+    min-height: 400px;
     width: 100%;
     display: flex;
     align-items: center;
+    position: relative;
 }
-#default-hero>div>div {}
+#default-hero>div>div {
+    position: relative;
+    z-index: 3;
+}
 #default-hero>div>div>div {}
 #default-hero>div>div>div .default-tagline {}
 #default-hero>div>div>div .default-tagline h1 {
@@ -1438,7 +1454,7 @@ em {
 #about-us>div>div>div .about-us-content {}
 #about-us>div>div>div .about-us-content p {
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 
 #manifest {}
@@ -1452,7 +1468,7 @@ em {
 }
 #manifest>div>div>div .manifest-subtitle p {
     font-size: 14px;
-    font-family: "Merriweather Sans";
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
 }
 #manifest>div>div>div .manifest-col-title {}
@@ -1467,7 +1483,7 @@ em {
 }
 #manifest>div>div>div .manifest-col-content p {
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
 }
 #manifest>div>div>div a {
@@ -1512,7 +1528,7 @@ em {
 }
 #diversity>div>div>div .diversity-content {}
 #diversity>div>div>div .diversity-content p {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-size: 15px;
 }
 #diversity>div>div>div .diversity-stat {}
@@ -1524,7 +1540,7 @@ em {
 }
 #diversity>div>div>div .diversity-stat p {
     font-size: 20px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 
 /* About us */
@@ -1545,7 +1561,7 @@ em {
 }
 #about-us-timeline>div>div>div .about-us-timeline-content p {
     font-size: 16px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 
 
@@ -1718,16 +1734,15 @@ em {
 #awards-slider>div .awards-slider-carousel {
     margin-top: 30px;
 }
-#awards-slider>div .awards-slider-carousel .award-item {
-}
+#awards-slider>div .awards-slider-carousel .award-item {display: flex;align-items: center;}
 #awards-slider>div .awards-slider-carousel .award-item a {
     display: flex;
-    height: 120px;
 }
 #awards-slider>div .awards-slider-carousel .award-item a img {
-    max-height: 80px;
-    max-width: 120px;
+    height: 80px;
+    width: 120px;
     transition: transform 0.3s ease;
+    object-fit: contain;
 }
 #awards-slider>div .awards-slider-carousel .award-item a:hover img {
     transform: scale(1.05);
@@ -1738,7 +1753,7 @@ em {
 #featured-recognition>div>div {
     position: relative;
 }
-#featured-recognition>div:nth-child(1)>div:first-child::before {
+#featured-recognition>div>div:first-child::before {
     content: '';
     width: 99999px;
     height: calc(100% - 30px);
@@ -1793,7 +1808,7 @@ em {
     background-image: url('img/next-white-arrow.svg');
 }
 #featured-recognition>div>div>div .featured-recognition-header .featured-recognition-header-content p {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     font-size: 22px;
 }
@@ -1804,7 +1819,7 @@ em {
 #featured-recognition>div>div>div .featured-recognition-bottom {}
 #featured-recognition>div>div>div .featured-recognition-bottom .featured-recognition-bottom-content {}
 #featured-recognition>div>div>div .featured-recognition-bottom .featured-recognition-bottom-content p {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     margin-bottom: 10px;
 }
 #featured-recognition>div>div>div .featured-recognition-bottom .featured-recognition-bottom-content p a {}
@@ -1843,7 +1858,7 @@ em {
 #recognitions-info>div>div>div {}
 #recognitions-info>div>div>div .recognitions-info-content {}
 #recognitions-info>div>div>div .recognitions-info-content p {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 /* Reconhecimento Listagem */
 
@@ -1861,7 +1876,7 @@ em {
 #work-with-us>div>div>div .work-with-us-content {
     font-size: 16px;
 }
-#work-with-us>div>div>div .work-with-us-content p {font-family: 'Merriweather Sans';}
+#work-with-us>div>div>div .work-with-us-content p {font-family: 'Merriweather SemiCondensed';}
 #work-with-us>div .work-with-us-form {}
 #work-with-us>div .work-with-us-form>div {}
 #work-with-us>div .work-with-us-form>div>div {}
@@ -1875,12 +1890,12 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     background: transparent;
     color: #004C42;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-field input::placeholder {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     color: #004C42;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-field-select {}
@@ -1890,7 +1905,7 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     background: transparent;
     color: #004C42;
     cursor: pointer;
@@ -1903,7 +1918,7 @@ em {
     cursor: pointer;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     color: #004C42;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-file-label i {
@@ -1926,13 +1941,13 @@ em {
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-check  p{
     font-size: 16px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     cursor: pointer;
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-lgpd {}
 #work-with-us>div .work-with-us-form>div>div .work-with-us-lgpd p {
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #work-with-us>div .work-with-us-form>div>div .work-with-us-lgpd p a{
     color: #02231F;
@@ -1945,7 +1960,7 @@ em {
     padding: 12px 20px;
     display: inline-flex;
     align-items: center;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #work-with-us>div .work-with-us-form>div>div button i {
     margin-left: 8px;
@@ -2028,6 +2043,7 @@ em {
     transition: 0.3s;
     white-space: nowrap;
     margin-bottom: 40px;
+    justify-content: center;
 }
 #our-team>div>div>div .our-team-filter-btn:hover {
     background: #02231F;
@@ -2037,11 +2053,11 @@ em {
     margin-left: 10px;
 }
 #our-team>div>div>div .our-team-alphabet {
-    margin: 40px 0;
+    margin: 0px 0 40px;
 }
 #our-team>div>div>div .our-team-alphabet span {
     font-size: 18px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     color: #004C42;
     cursor: pointer;
     transition: 0.2s;
@@ -2057,6 +2073,7 @@ em {
 }
 #our-team>div>div>div .our-team-card {
     margin-bottom: 30px;
+    padding: 0 15px;
 }
 #our-team>div>div>div .our-team-card-image {
     position: relative;
@@ -2091,9 +2108,11 @@ em {
     padding: 16px 0;
 }
 #our-team>div>div>div .our-team-card-info h3 {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 700;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #004c42;
 }
 #our-team>div>div>div .our-team-card-info h3 a {
     color: #004C42;
@@ -2104,12 +2123,12 @@ em {
     text-decoration: underline;
 }
 #our-team>div>div>div .our-team-card-info span {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 300;
     color: #004C42;
     display: block;
     margin: 15px 0;
-    font-family: "Merriweather Sans";
+    font-family: 'Merriweather SemiCondensed';
 }
 #our-team>div>div>div .our-team-card-info .our-team-card-contacts {
     display: flex;
@@ -2125,7 +2144,7 @@ em {
 }
 #our-team>div>div>div .our-team-card-info .our-team-card-contacts a i {
     font-size: 20px;
-    margin-right: 26px;
+    margin-left: 15px;
 }
 
 /* Carreira */
@@ -2172,7 +2191,7 @@ em {
     color: #fff;
     text-decoration: none;
     font-size: 11px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     letter-spacing: 2px;
     margin-bottom: 20px;
     transition: 0.2s;
@@ -2196,7 +2215,7 @@ em {
 }
 #featured-practice>div>div>div .member-hero-bar .member-hero-infos span {
     font-size: 18px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     display: block;
     margin-bottom: 24px;
@@ -2241,7 +2260,7 @@ em {
     color: #fff;
     text-decoration: none;
     font-size: 11px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     letter-spacing: 2px;
     margin-bottom: 20px;
     transition: 0.2s;
@@ -2265,7 +2284,7 @@ em {
 }
 #member-hero>div>div>div .member-hero-bar .member-hero-infos span {
     font-size: 18px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     display: block;
     margin-bottom: 24px;
@@ -2303,12 +2322,12 @@ em {
     font-weight: 700;
     margin-bottom: 16px;
 }
-#member-details>div>div>div .member-details-block p {font-family: 'Merriweather Sans';font-size: 16px;}
+#member-details>div>div>div .member-details-block p {font-family: 'Merriweather SemiCondensed';font-size: 16px;}
 #member-details>div>div>div .member-details-areas-title {}
 #member-details>div>div>div .member-details-areas-title h1 {
     display: block;
     font-size: 18px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     margin-bottom: 25px;
 }
@@ -2358,7 +2377,7 @@ em {
     color: #fff;
     text-decoration: none;
     font-size: 11px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     letter-spacing: 2px;
     margin-bottom: 20px;
     transition: 0.2s;
@@ -2382,7 +2401,7 @@ em {
 }
 #featured-practice>div>div>div .member-hero-bar .member-hero-infos span {
     font-size: 18px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     display: block;
     margin-bottom: 24px;
@@ -2401,7 +2420,7 @@ em {
 }
 #practice-content>div>div>div .practice-content-main .practice-content-text {}
 #practice-content>div>div>div .practice-content-main .practice-content-text p {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     margin-bottom: 14px;
 }
 #practice-content>div>div>div .practice-related-box {
@@ -2489,7 +2508,7 @@ em {
 }
 #practice-content>div>div>div .practice-related-box .practice-related-list .practice-related-card .practice-related-card-info span {
     font-size: 10px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     display: block;
     margin-bottom: 8px;
 }
@@ -2529,7 +2548,7 @@ em {
     text-decoration: none;
     transition: 0.2s;
     margin-right: 20px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #publications-filter>div>div>div .publications-filter-categories a:last-child{
     margin-right: 0;
@@ -2549,7 +2568,7 @@ em {
     background: transparent;
     width: 100%;
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     padding-right: 24px
 }
@@ -2574,7 +2593,7 @@ em {
     border: none;
     background: transparent;
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     color: #004C42;
     cursor: pointer;
@@ -2615,7 +2634,7 @@ em {
     padding: 8px 16px;
 }
 #publications-results>div>div>div .publications-results-order span {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #publications-results>div>div>div .publications-results-order i {
     margin-left: 10px;
@@ -2752,7 +2771,7 @@ em {
 }
 #publications-newsletter>div>div>div .newsletter-field input {
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     border: none;
     background: transparent;
@@ -2764,7 +2783,7 @@ em {
     margin-left: 50px;
     font-size: 14px;
     color: #004C42;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #publications-newsletter>div>div>div .newsletter-field-select {}
 #publications-newsletter>div>div>div .newsletter-field-select select {
@@ -2772,7 +2791,7 @@ em {
     background: transparent;
     width: 100%;
     font-size: 14px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     font-weight: 300;
     color: #004C42;
     cursor: pointer;
@@ -2797,7 +2816,7 @@ em {
     accent-color: #004C42;
 }
 #publications-newsletter>div>div>div .newsletter-checkbox label {
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     color: #02231F;
     cursor: pointer;
 }
@@ -2828,7 +2847,7 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     background: transparent;
     color: #004C42;
 }
@@ -2838,7 +2857,7 @@ em {
     padding: 10px 10px;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     background: transparent;
     height: 80px;
     color: #004C42;
@@ -2864,7 +2883,7 @@ em {
 }
 #contact>div>div>div .contact-form .contact-check label {
     font-size: 16px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 
     cursor: pointer;
 }
@@ -3027,7 +3046,7 @@ footer .bottom-footer>div>div>div a:hover img {
     color: #fff;
     text-decoration: none;
     font-size: 11px;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
     margin-bottom: 20px;
     transition: 0.2s;
     border: none;
@@ -3047,13 +3066,13 @@ footer .bottom-footer>div>div>div a:hover img {
     font-size: 14px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #publication-hero>div>div>div .green-bar-infos span {
     font-size: 20px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Merriweather Sans';
+    font-family: 'Merriweather SemiCondensed';
 }
 #publication-hero>div>div>div .green-bar-infos h1 {
     font-size: 35px;
